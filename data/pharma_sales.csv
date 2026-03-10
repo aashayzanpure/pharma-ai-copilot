@@ -1,0 +1,1001 @@
+hcp_id,specialty,region,drug,month,trx,nrx,rep_calls,emails_sent,payer_type,access_level,sales_rep_id
+100102,Pulmonology,West,DrugB,Feb,170,29,10,0,Medicaid,Low,1089
+100435,Pulmonology,West,DrugB,Oct,157,15,11,6,Commercial,High,1005
+100860,Cardiology,South,DrugC,Mar,18,12,8,2,Medicaid,Medium,1048
+100270,Cardiology,South,DrugC,Jun,36,28,10,2,Medicaid,High,1072
+100106,Oncology,East,DrugA,Aug,143,24,11,6,Medicare,Medium,1049
+100071,Cardiology,North,DrugC,Dec,193,21,4,3,Medicare,High,1080
+100700,Endocrinology,West,DrugC,Nov,150,10,6,6,Medicaid,High,1094
+100020,Pulmonology,South,DrugB,Dec,159,78,2,0,Commercial,Low,1011
+100614,Oncology,East,DrugC,Jan,59,18,9,0,Commercial,Low,1022
+100121,Cardiology,South,DrugB,Jan,186,14,3,2,Medicare,Low,1053
+100466,Endocrinology,West,DrugA,Nov,124,34,9,5,Medicaid,High,1068
+100214,Endocrinology,West,DrugA,Feb,79,58,8,3,Commercial,High,1099
+100330,Cardiology,Central,DrugC,Nov,25,76,9,2,Commercial,High,1058
+100458,Pulmonology,North,DrugA,Dec,176,22,9,6,Medicare,Medium,1035
+100087,Cardiology,Central,DrugC,Dec,137,70,11,2,Medicaid,Medium,1002
+100372,Oncology,East,DrugA,Jun,91,36,0,1,Commercial,High,1057
+100099,Cardiology,South,DrugB,Sep,173,45,1,1,Medicare,Low,1087
+100871,Endocrinology,East,DrugB,Apr,63,36,4,5,Commercial,Low,1054
+100663,Cardiology,West,DrugB,Mar,93,22,2,3,Commercial,Low,1056
+100130,Pulmonology,Central,DrugB,Dec,186,78,1,4,Commercial,High,1016
+100661,General Physician,Central,DrugC,Aug,154,61,0,7,Medicare,Low,1038
+100308,Cardiology,Central,DrugA,Nov,87,56,9,1,Medicaid,High,1089
+100769,Pulmonology,East,DrugC,Oct,69,33,2,4,Medicare,Medium,1067
+100343,Pulmonology,West,DrugB,Sep,68,45,0,0,Medicaid,Low,1054
+100491,Endocrinology,South,DrugC,Dec,75,36,11,1,Commercial,Medium,1044
+100413,Pulmonology,South,DrugA,Nov,8,20,0,1,Medicaid,Low,1075
+100805,Pulmonology,East,DrugC,May,197,18,11,3,Commercial,High,1000
+100385,Pulmonology,Central,DrugA,Sep,147,38,0,5,Commercial,High,1020
+100191,Pulmonology,North,DrugC,Feb,108,67,7,4,Medicare,High,1082
+100955,Oncology,East,DrugA,Mar,154,23,2,6,Commercial,High,1020
+100276,Oncology,East,DrugA,Jul,179,16,10,1,Medicare,Low,1051
+100160,Endocrinology,West,DrugB,Jul,97,59,0,1,Medicaid,Medium,1081
+100459,Cardiology,South,DrugA,Jun,178,69,6,3,Medicaid,High,1042
+100313,Pulmonology,East,DrugB,Jun,146,68,9,3,Commercial,Low,1051
+100021,Cardiology,East,DrugB,Feb,182,21,2,5,Medicare,Medium,1066
+100252,Cardiology,Central,DrugB,Oct,152,78,7,4,Commercial,High,1043
+100747,Endocrinology,Central,DrugC,Jun,182,78,3,0,Medicare,Medium,1031
+100856,Pulmonology,North,DrugC,Apr,116,70,3,6,Medicare,High,1009
+100560,Pulmonology,West,DrugC,Dec,165,12,4,5,Medicare,Medium,1063
+100474,General Physician,North,DrugC,Mar,123,16,5,7,Medicaid,Medium,1078
+100058,Cardiology,Central,DrugA,Nov,63,14,6,0,Medicare,High,1068
+100510,Cardiology,South,DrugA,Feb,47,61,3,2,Medicaid,Low,1067
+100681,Oncology,Central,DrugC,Jan,16,71,7,1,Medicare,Medium,1027
+100475,General Physician,West,DrugA,Nov,44,46,5,4,Medicaid,High,1052
+100699,Oncology,Central,DrugA,Nov,122,32,0,5,Medicaid,Medium,1050
+100975,Oncology,West,DrugB,May,24,15,0,1,Medicaid,Medium,1052
+100782,Oncology,West,DrugB,Feb,170,44,8,4,Commercial,Low,1003
+100189,Endocrinology,West,DrugB,Feb,135,17,9,4,Medicare,Medium,1078
+100957,Endocrinology,West,DrugB,Jul,160,41,5,4,Commercial,Medium,1016
+100686,Oncology,West,DrugA,Aug,188,54,9,1,Medicare,High,1066
+100957,General Physician,South,DrugC,Oct,94,44,7,5,Medicare,High,1073
+100562,Cardiology,North,DrugA,Aug,98,5,6,6,Commercial,Low,1046
+100875,General Physician,East,DrugA,Apr,17,27,11,3,Medicaid,Medium,1055
+100566,Pulmonology,North,DrugA,Jan,70,78,5,1,Medicare,Medium,1022
+100243,Endocrinology,West,DrugB,Nov,41,79,3,7,Medicaid,Medium,1017
+100831,Cardiology,South,DrugB,Jul,181,43,6,4,Commercial,Low,1000
+100504,Cardiology,Central,DrugB,Jan,70,31,8,5,Medicaid,Medium,1034
+100130,Pulmonology,South,DrugC,Nov,40,17,10,6,Medicare,High,1063
+100484,Pulmonology,West,DrugA,Apr,186,54,9,2,Medicare,Low,1057
+100818,Oncology,South,DrugC,Aug,30,62,9,7,Medicare,High,1094
+100646,Endocrinology,South,DrugB,Feb,79,32,6,0,Commercial,High,1058
+100020,Endocrinology,West,DrugC,Jun,112,40,0,7,Medicare,Low,1000
+100840,General Physician,South,DrugA,Jun,172,13,9,4,Commercial,High,1002
+100166,Oncology,East,DrugA,Dec,47,35,8,2,Medicaid,Medium,1066
+100273,Oncology,East,DrugB,Sep,154,5,3,3,Medicare,Low,1036
+100387,Oncology,South,DrugB,May,152,73,2,6,Medicare,High,1082
+100600,Oncology,Central,DrugC,Oct,12,29,3,6,Medicare,Medium,1028
+100315,Endocrinology,West,DrugB,Apr,33,70,3,4,Medicaid,Medium,1088
+100013,Endocrinology,East,DrugB,May,44,25,9,7,Medicare,High,1032
+100241,Oncology,Central,DrugA,Dec,162,22,10,7,Commercial,Medium,1099
+100776,General Physician,South,DrugB,Dec,132,66,1,6,Medicaid,Low,1060
+100345,Cardiology,Central,DrugB,Oct,88,45,11,2,Medicaid,High,1092
+100564,Cardiology,North,DrugA,Nov,120,69,0,4,Medicaid,Medium,1089
+100897,General Physician,East,DrugA,May,187,72,11,1,Medicaid,Medium,1003
+100339,Oncology,South,DrugC,Aug,148,1,9,5,Medicaid,High,1013
+100091,Endocrinology,West,DrugB,Oct,178,44,11,2,Commercial,High,1090
+100366,Cardiology,South,DrugA,Dec,66,75,0,5,Medicaid,High,1032
+100955,Pulmonology,West,DrugC,Aug,11,39,7,1,Medicare,High,1021
+100454,Pulmonology,South,DrugC,Feb,49,54,1,1,Medicaid,Low,1047
+100427,General Physician,Central,DrugB,Jul,191,75,11,5,Medicaid,High,1002
+100508,Oncology,Central,DrugB,Aug,188,29,9,2,Medicaid,Low,1086
+100775,Cardiology,Central,DrugC,Nov,180,54,4,5,Medicaid,Low,1084
+100942,Oncology,North,DrugA,Jun,159,16,11,5,Medicaid,High,1022
+100034,Cardiology,West,DrugC,May,185,20,3,0,Commercial,Low,1067
+100205,General Physician,Central,DrugB,Nov,92,46,7,2,Commercial,High,1020
+100080,General Physician,North,DrugA,Sep,77,67,1,7,Medicaid,High,1042
+100931,Pulmonology,West,DrugA,Mar,167,65,9,7,Commercial,Medium,1094
+100561,Oncology,South,DrugC,Dec,183,58,8,0,Medicare,High,1084
+100871,Pulmonology,North,DrugB,Oct,41,53,6,4,Medicaid,Medium,1025
+100387,Oncology,East,DrugC,Apr,123,1,6,6,Medicare,Low,1040
+100001,Pulmonology,North,DrugC,Sep,61,66,0,7,Medicare,Medium,1098
+100389,Endocrinology,North,DrugC,Jun,12,29,11,5,Medicaid,Low,1037
+100565,Endocrinology,West,DrugA,Aug,99,70,1,4,Medicare,High,1087
+100105,Endocrinology,South,DrugA,Jul,121,8,3,7,Medicare,Low,1010
+100771,Endocrinology,East,DrugB,Nov,114,29,3,2,Medicare,Low,1028
+100821,Cardiology,Central,DrugB,Feb,24,51,10,5,Medicaid,High,1059
+100476,Endocrinology,Central,DrugC,Mar,128,33,2,6,Medicaid,Low,1066
+100702,General Physician,North,DrugC,Jan,57,3,6,4,Medicare,High,1064
+100401,General Physician,West,DrugC,Sep,123,60,11,7,Medicaid,Medium,1060
+100729,Cardiology,West,DrugB,Jul,16,35,7,7,Medicaid,High,1018
+100555,Endocrinology,Central,DrugA,Jan,181,69,1,3,Medicare,High,1045
+100161,Endocrinology,East,DrugA,Mar,21,76,3,7,Medicaid,Low,1048
+100201,Endocrinology,South,DrugC,Apr,68,20,2,1,Commercial,Medium,1021
+100957,Pulmonology,East,DrugC,Apr,46,73,1,5,Medicaid,High,1077
+100995,Oncology,South,DrugC,May,98,39,11,6,Commercial,Medium,1056
+100269,Pulmonology,Central,DrugC,Mar,161,4,5,1,Medicare,Medium,1013
+100862,Oncology,South,DrugB,Mar,151,19,3,0,Medicaid,Low,1043
+100815,Endocrinology,West,DrugA,Jan,15,45,5,4,Medicare,High,1015
+100270,Endocrinology,North,DrugC,Jul,102,43,1,7,Medicare,Low,1096
+100455,Pulmonology,North,DrugB,Nov,182,13,11,0,Medicare,High,1076
+100461,Pulmonology,Central,DrugC,Oct,75,13,3,6,Medicare,Medium,1011
+100726,Oncology,West,DrugC,Jan,112,60,10,5,Medicare,High,1054
+100251,General Physician,East,DrugA,Feb,62,57,5,1,Medicaid,High,1050
+100701,Oncology,West,DrugC,Apr,38,52,4,1,Commercial,Medium,1038
+100295,Pulmonology,North,DrugA,Apr,24,53,2,4,Medicaid,Medium,1032
+100724,Pulmonology,North,DrugA,May,54,43,7,5,Medicaid,High,1032
+100719,Cardiology,West,DrugA,Nov,106,72,6,7,Medicaid,Low,1028
+100748,Pulmonology,West,DrugB,Feb,142,72,2,3,Medicaid,High,1068
+100337,Cardiology,North,DrugB,Apr,164,42,5,3,Commercial,Medium,1069
+100878,General Physician,East,DrugA,Jan,56,26,3,4,Medicaid,Low,1030
+100052,Oncology,Central,DrugC,Feb,19,23,10,5,Medicare,Medium,1079
+100791,Oncology,Central,DrugA,Jan,88,43,4,4,Medicaid,Medium,1030
+100921,Cardiology,West,DrugC,Oct,135,77,10,5,Medicaid,Low,1088
+100216,Oncology,Central,DrugA,Oct,41,28,4,6,Commercial,Medium,1045
+100763,Pulmonology,North,DrugC,Apr,130,9,6,6,Commercial,Medium,1096
+100187,Endocrinology,North,DrugB,Apr,44,20,10,0,Medicare,Medium,1076
+100379,Cardiology,West,DrugC,Jul,76,56,4,7,Medicaid,Medium,1051
+100492,Oncology,West,DrugA,Oct,44,39,10,4,Medicaid,Medium,1009
+100040,Cardiology,West,DrugB,Nov,60,51,2,7,Medicaid,Medium,1087
+100156,Cardiology,East,DrugC,Nov,155,12,9,5,Medicare,Medium,1073
+100014,Endocrinology,Central,DrugC,Sep,108,79,4,3,Commercial,Medium,1040
+100812,Pulmonology,West,DrugC,Sep,143,55,6,7,Medicare,Medium,1094
+100064,Cardiology,South,DrugC,May,114,78,4,5,Medicaid,High,1076
+100856,Oncology,South,DrugC,Oct,196,11,4,6,Commercial,High,1002
+100838,General Physician,North,DrugB,Jan,140,26,8,5,Commercial,Medium,1058
+100520,Cardiology,Central,DrugB,Jan,97,42,2,4,Medicare,High,1051
+100343,Cardiology,West,DrugB,Jun,98,27,5,0,Commercial,Low,1033
+100128,Endocrinology,South,DrugB,Feb,60,11,0,0,Commercial,High,1048
+100647,Pulmonology,Central,DrugA,Aug,64,38,9,0,Medicaid,Medium,1027
+100471,General Physician,North,DrugB,Sep,142,43,4,0,Medicaid,Medium,1082
+100062,Oncology,East,DrugC,Apr,43,19,7,6,Commercial,High,1086
+100138,General Physician,Central,DrugC,May,32,64,4,2,Commercial,Medium,1095
+100498,Oncology,Central,DrugB,Nov,53,6,8,7,Medicare,Low,1012
+100592,Pulmonology,East,DrugC,Aug,168,46,10,4,Medicare,Low,1096
+100391,Oncology,Central,DrugB,Mar,129,42,5,1,Commercial,Medium,1097
+100674,Endocrinology,North,DrugC,May,17,65,7,4,Medicaid,Low,1096
+100418,Endocrinology,North,DrugA,Mar,40,72,9,2,Commercial,Low,1068
+100288,Endocrinology,East,DrugA,Dec,105,59,7,0,Commercial,High,1066
+100378,Endocrinology,West,DrugB,Oct,30,52,2,2,Medicaid,Low,1060
+100772,General Physician,South,DrugB,Mar,90,47,6,3,Medicaid,High,1059
+100489,Pulmonology,West,DrugB,Mar,8,7,6,3,Medicare,Medium,1070
+100230,Oncology,Central,DrugC,Dec,86,11,9,7,Medicare,High,1023
+100040,Oncology,South,DrugB,Jul,196,61,11,6,Medicare,Medium,1062
+100027,Endocrinology,East,DrugA,Jul,170,68,5,4,Medicare,Medium,1085
+100134,Endocrinology,East,DrugC,Jul,131,25,11,4,Medicaid,Medium,1060
+100200,Cardiology,South,DrugB,Oct,92,12,6,1,Commercial,Medium,1022
+100839,Pulmonology,North,DrugC,Aug,131,26,1,6,Medicare,Medium,1029
+100779,General Physician,South,DrugC,May,124,12,8,1,Medicare,High,1059
+100929,Oncology,Central,DrugB,May,26,43,9,3,Medicaid,Medium,1017
+100032,Cardiology,North,DrugC,Apr,134,51,9,0,Medicaid,Low,1095
+100047,Cardiology,East,DrugA,Jul,35,37,0,2,Commercial,Low,1055
+100502,Oncology,South,DrugA,Oct,123,46,0,1,Commercial,Medium,1052
+100406,General Physician,West,DrugC,Apr,15,53,2,5,Medicaid,Low,1006
+100573,Cardiology,West,DrugB,Feb,50,13,2,1,Medicare,High,1096
+100727,Cardiology,Central,DrugC,Apr,100,54,0,0,Medicare,High,1068
+100804,Pulmonology,West,DrugA,Aug,194,57,11,0,Medicare,Medium,1091
+100098,General Physician,South,DrugC,Sep,196,4,6,4,Commercial,Medium,1071
+100683,Cardiology,South,DrugC,Mar,14,75,3,2,Medicare,Medium,1078
+100871,General Physician,West,DrugA,Jul,172,49,9,0,Medicare,Low,1051
+100725,Oncology,South,DrugC,Dec,132,7,1,6,Medicaid,Low,1003
+100986,Endocrinology,Central,DrugC,Sep,156,11,9,1,Medicare,High,1033
+100546,Cardiology,North,DrugB,Nov,103,54,4,1,Medicaid,Low,1068
+100960,Pulmonology,Central,DrugB,Apr,176,45,5,3,Medicare,High,1032
+100738,Oncology,Central,DrugA,Oct,116,23,8,0,Commercial,Low,1068
+100612,General Physician,South,DrugA,Mar,64,28,3,5,Medicare,High,1037
+100942,Oncology,North,DrugA,May,194,57,1,4,Medicare,Medium,1097
+100461,Cardiology,South,DrugB,Jan,91,26,4,2,Medicaid,Low,1025
+100642,General Physician,East,DrugA,Mar,149,25,2,5,Medicaid,High,1000
+100768,Endocrinology,South,DrugA,Aug,69,54,1,4,Medicaid,Low,1003
+100004,Oncology,South,DrugA,Nov,61,29,11,1,Medicare,Medium,1038
+100217,Cardiology,South,DrugB,Aug,187,36,0,5,Medicare,High,1053
+100502,Pulmonology,North,DrugC,Apr,110,14,9,4,Commercial,Low,1089
+100766,General Physician,South,DrugA,Feb,185,78,1,1,Medicare,Low,1032
+100397,Oncology,North,DrugC,Aug,188,35,5,1,Commercial,Medium,1032
+100870,Oncology,West,DrugA,Aug,13,30,7,1,Medicaid,Medium,1071
+100794,Endocrinology,East,DrugC,Oct,26,17,2,1,Medicaid,High,1019
+100392,Endocrinology,North,DrugB,Apr,145,67,10,6,Medicaid,Low,1015
+100206,Pulmonology,West,DrugB,Mar,93,30,8,1,Commercial,Low,1020
+100014,Pulmonology,North,DrugA,Feb,180,45,11,3,Medicare,Medium,1044
+100857,Cardiology,North,DrugC,Sep,22,79,8,5,Medicaid,Medium,1089
+100553,Cardiology,East,DrugB,Jan,119,51,1,4,Medicare,High,1086
+100891,Pulmonology,Central,DrugA,Jul,172,47,7,3,Medicare,Low,1081
+100460,Pulmonology,Central,DrugA,May,149,53,9,6,Medicaid,Low,1061
+100690,General Physician,North,DrugB,Aug,147,64,10,7,Commercial,High,1030
+100574,Endocrinology,South,DrugB,Apr,110,38,11,7,Medicare,High,1041
+100863,Cardiology,West,DrugA,Jul,19,64,4,3,Medicaid,Medium,1011
+100742,Endocrinology,South,DrugC,May,67,7,3,0,Medicare,Medium,1064
+100240,Endocrinology,South,DrugC,May,171,22,9,0,Medicare,High,1072
+100563,Pulmonology,North,DrugC,Sep,17,41,4,0,Medicare,High,1002
+100095,General Physician,North,DrugA,Sep,85,74,3,2,Medicare,Low,1089
+100899,Oncology,North,DrugB,Sep,36,10,7,0,Medicare,High,1008
+100733,General Physician,North,DrugA,Dec,141,57,3,4,Commercial,High,1050
+100484,General Physician,Central,DrugB,Jun,44,7,9,3,Commercial,Low,1015
+100406,Endocrinology,North,DrugC,Jun,152,50,11,4,Medicaid,High,1087
+100230,General Physician,Central,DrugC,May,86,52,5,5,Commercial,Medium,1077
+100748,Cardiology,Central,DrugB,Sep,81,33,1,0,Commercial,Medium,1002
+100654,Endocrinology,North,DrugB,Oct,195,1,4,6,Commercial,Low,1097
+100170,Cardiology,East,DrugA,Aug,80,53,5,2,Medicare,High,1096
+100540,Oncology,West,DrugC,Jul,176,60,4,5,Medicare,Medium,1023
+100035,Endocrinology,South,DrugA,Jul,42,34,11,6,Medicaid,Medium,1072
+100524,Oncology,Central,DrugA,Jun,192,4,1,2,Medicaid,Medium,1012
+100159,Endocrinology,West,DrugA,May,75,17,6,7,Medicaid,Medium,1001
+100838,Pulmonology,East,DrugC,Apr,52,4,3,5,Medicare,High,1070
+100698,General Physician,South,DrugA,Mar,22,43,7,7,Commercial,High,1020
+100242,Pulmonology,South,DrugA,Mar,148,4,6,3,Commercial,High,1018
+100085,Oncology,Central,DrugA,Jun,187,1,6,4,Medicare,High,1088
+100795,General Physician,North,DrugA,Apr,43,71,8,1,Medicaid,Medium,1046
+100577,Endocrinology,East,DrugA,Dec,191,50,0,4,Medicaid,Low,1021
+100681,General Physician,Central,DrugA,Dec,93,73,9,0,Medicaid,Low,1074
+100556,Cardiology,East,DrugC,Jun,66,61,5,7,Medicare,Medium,1032
+100573,General Physician,North,DrugA,Mar,145,35,5,6,Medicaid,Medium,1031
+100952,Cardiology,North,DrugB,Apr,113,8,5,1,Medicaid,Low,1063
+100645,General Physician,Central,DrugA,Sep,85,24,11,2,Medicare,Low,1084
+100795,Cardiology,North,DrugA,May,138,36,5,7,Commercial,Medium,1038
+100027,Oncology,West,DrugC,Jul,81,50,11,3,Medicare,Medium,1083
+100619,Pulmonology,South,DrugC,Oct,192,43,9,3,Medicare,High,1071
+100555,Endocrinology,Central,DrugB,Feb,94,27,6,7,Medicare,High,1041
+100339,General Physician,East,DrugB,May,18,32,9,7,Medicare,Low,1008
+100797,Pulmonology,West,DrugC,Sep,99,78,5,7,Commercial,Medium,1024
+100957,Endocrinology,Central,DrugC,Nov,58,18,0,2,Medicaid,Low,1088
+100330,Endocrinology,North,DrugA,Mar,136,28,2,0,Medicare,High,1096
+100639,Cardiology,North,DrugC,Sep,43,29,1,2,Commercial,High,1001
+100505,Oncology,North,DrugB,Nov,76,16,5,5,Medicaid,Low,1018
+100347,Oncology,North,DrugA,Jun,29,47,7,6,Medicaid,High,1019
+100472,Pulmonology,East,DrugB,Apr,81,59,2,7,Medicaid,Medium,1092
+100230,Oncology,West,DrugA,Jul,164,31,9,6,Medicare,Low,1069
+100189,General Physician,South,DrugC,Aug,191,4,7,0,Medicare,Medium,1016
+100224,Oncology,East,DrugB,Jun,195,37,7,1,Medicaid,Medium,1088
+100384,Pulmonology,East,DrugA,May,170,17,4,2,Medicaid,High,1067
+100376,Oncology,South,DrugA,Jun,124,39,7,0,Medicaid,Medium,1093
+100282,General Physician,South,DrugC,May,57,48,5,6,Medicaid,Low,1083
+100957,Cardiology,North,DrugC,Aug,199,46,4,1,Medicaid,Medium,1002
+100632,Pulmonology,East,DrugC,Jan,160,48,8,2,Medicaid,Medium,1086
+100627,Cardiology,Central,DrugB,Nov,135,39,6,3,Commercial,Medium,1050
+100972,Cardiology,South,DrugA,Jul,154,4,7,2,Medicaid,Medium,1081
+100744,Cardiology,South,DrugC,Oct,100,30,0,4,Medicare,Medium,1025
+100258,Endocrinology,West,DrugB,Oct,170,30,10,2,Medicare,High,1055
+100358,Endocrinology,Central,DrugB,Nov,76,22,1,4,Medicare,Low,1099
+100709,Cardiology,Central,DrugB,Feb,66,75,7,1,Medicaid,High,1063
+100455,Pulmonology,South,DrugC,Sep,189,66,11,2,Medicare,Low,1007
+100410,General Physician,North,DrugC,Jan,10,12,8,1,Commercial,Low,1080
+100648,General Physician,West,DrugA,Nov,36,36,3,1,Medicaid,Low,1094
+100317,Oncology,Central,DrugA,Oct,103,18,11,6,Medicare,Low,1036
+100676,Pulmonology,South,DrugC,Jun,142,53,9,0,Commercial,Low,1096
+100224,Endocrinology,Central,DrugB,Sep,135,71,10,1,Commercial,Medium,1026
+100818,Cardiology,West,DrugB,Jan,191,1,9,1,Medicare,High,1044
+100233,Oncology,West,DrugB,Apr,80,58,8,6,Commercial,High,1003
+100683,General Physician,East,DrugA,Apr,181,6,3,6,Medicare,Medium,1085
+100663,Endocrinology,South,DrugB,Sep,63,70,9,2,Commercial,Low,1089
+100974,Endocrinology,West,DrugA,Nov,35,44,9,6,Medicaid,High,1095
+100826,Cardiology,East,DrugA,May,97,72,9,2,Medicaid,Medium,1087
+100373,General Physician,East,DrugB,May,73,24,8,3,Medicaid,Medium,1098
+100671,Pulmonology,Central,DrugB,Jun,194,19,10,6,Medicaid,High,1036
+100607,Endocrinology,Central,DrugC,Jan,56,18,6,0,Medicaid,High,1095
+100471,Cardiology,East,DrugC,Jan,93,30,1,1,Medicare,Low,1070
+100232,Pulmonology,Central,DrugB,Sep,131,42,8,0,Medicaid,Low,1032
+100691,General Physician,West,DrugA,Mar,173,33,3,4,Medicaid,High,1030
+100112,Endocrinology,North,DrugA,Apr,35,74,7,7,Medicaid,Low,1054
+100829,Pulmonology,West,DrugA,Jan,88,12,6,6,Medicaid,Medium,1011
+100496,Pulmonology,East,DrugA,Sep,131,27,6,1,Commercial,Low,1010
+100441,Pulmonology,East,DrugA,Aug,154,39,7,0,Medicaid,Low,1087
+100563,Endocrinology,West,DrugC,Feb,136,9,0,6,Medicaid,Medium,1071
+100267,Endocrinology,Central,DrugB,Aug,17,21,4,6,Medicare,Low,1031
+100509,Oncology,Central,DrugC,Jul,49,76,1,7,Commercial,Medium,1056
+100806,General Physician,East,DrugA,Nov,131,29,1,3,Medicare,Low,1037
+100385,Cardiology,South,DrugA,Jun,174,33,0,3,Medicaid,High,1059
+100386,Pulmonology,Central,DrugA,Jan,118,62,4,1,Medicare,Low,1085
+100112,Oncology,West,DrugA,Jul,181,15,1,4,Medicare,High,1097
+100612,Cardiology,Central,DrugB,Oct,24,2,3,3,Medicaid,High,1018
+100624,Oncology,West,DrugA,Jul,85,52,2,7,Commercial,High,1083
+100951,Endocrinology,East,DrugB,Sep,186,44,2,3,Commercial,High,1055
+100080,Pulmonology,Central,DrugA,Jan,168,54,1,4,Medicare,High,1013
+100698,Cardiology,West,DrugB,Feb,133,18,5,0,Medicaid,Medium,1032
+100112,Cardiology,East,DrugC,Nov,147,3,1,3,Medicare,Medium,1009
+100001,Cardiology,South,DrugA,Sep,21,7,7,7,Medicare,Medium,1079
+100641,Cardiology,West,DrugB,Sep,156,43,7,2,Medicare,High,1063
+100219,Cardiology,South,DrugC,Jun,62,38,11,7,Medicaid,Low,1063
+100565,Oncology,South,DrugA,Jun,76,37,4,5,Medicaid,Medium,1061
+100854,Pulmonology,North,DrugA,Apr,113,58,9,5,Commercial,Low,1067
+100996,Endocrinology,Central,DrugA,Apr,27,33,6,3,Medicaid,Low,1090
+100735,Endocrinology,West,DrugB,May,178,59,3,0,Medicare,High,1091
+100224,Endocrinology,South,DrugB,Mar,76,11,0,6,Medicare,High,1042
+100384,Endocrinology,North,DrugC,Jan,12,68,10,0,Commercial,High,1079
+100402,Oncology,East,DrugB,Jan,63,68,1,7,Medicaid,Medium,1058
+100637,General Physician,West,DrugB,Dec,115,22,9,1,Medicare,High,1051
+100129,Pulmonology,South,DrugA,Jul,191,66,9,2,Commercial,Medium,1096
+100052,Cardiology,Central,DrugA,Jan,17,44,3,0,Commercial,Medium,1018
+100683,General Physician,North,DrugA,Jan,171,6,0,4,Medicare,Medium,1020
+100729,Endocrinology,South,DrugA,Mar,160,42,7,7,Medicare,Medium,1021
+100671,General Physician,Central,DrugA,Oct,193,25,8,2,Medicaid,High,1008
+100709,Pulmonology,South,DrugA,Apr,20,57,3,5,Commercial,Medium,1008
+100415,Cardiology,West,DrugA,Apr,123,55,9,7,Medicare,High,1072
+100246,Cardiology,West,DrugC,Feb,6,16,2,2,Commercial,High,1026
+100835,Pulmonology,West,DrugC,Jan,149,14,1,4,Medicaid,Medium,1016
+100438,Pulmonology,North,DrugC,Mar,34,39,4,3,Medicare,High,1043
+100202,Endocrinology,West,DrugC,Nov,107,28,2,4,Medicaid,Low,1044
+100183,Cardiology,Central,DrugA,Apr,17,51,9,4,Commercial,High,1007
+100122,General Physician,South,DrugC,Mar,100,49,6,3,Medicaid,High,1079
+100400,Oncology,East,DrugA,Aug,98,9,10,3,Medicaid,Medium,1017
+100766,Oncology,Central,DrugC,Oct,86,58,5,3,Commercial,Medium,1032
+100293,Pulmonology,Central,DrugB,Jan,17,45,0,3,Medicaid,High,1000
+100279,Endocrinology,West,DrugC,Feb,175,22,11,3,Commercial,Medium,1075
+100836,Oncology,North,DrugC,Jul,98,32,7,4,Medicare,Low,1005
+100883,Cardiology,South,DrugA,Apr,153,69,1,1,Commercial,Low,1040
+100609,Pulmonology,North,DrugC,Aug,116,69,4,1,Commercial,Medium,1054
+100197,General Physician,South,DrugB,Nov,59,42,8,7,Medicare,High,1004
+100981,Pulmonology,South,DrugA,Mar,85,53,7,0,Commercial,Low,1058
+100906,General Physician,North,DrugA,Jun,172,59,1,1,Medicare,Low,1079
+100510,Pulmonology,Central,DrugC,Sep,120,74,8,5,Medicare,High,1017
+100751,Pulmonology,South,DrugA,Jan,147,39,4,1,Commercial,Medium,1048
+100143,Pulmonology,North,DrugA,Jan,184,15,9,4,Medicaid,Low,1081
+100608,General Physician,South,DrugA,Aug,112,71,5,3,Medicaid,High,1064
+100200,General Physician,East,DrugA,Mar,57,29,2,7,Medicare,High,1082
+100123,Pulmonology,Central,DrugA,May,132,3,2,3,Medicaid,Low,1053
+100186,Oncology,West,DrugA,Jan,184,10,9,6,Medicaid,Medium,1060
+100325,Endocrinology,South,DrugB,May,162,29,7,6,Commercial,Low,1007
+100463,Endocrinology,East,DrugC,Nov,165,79,10,6,Medicare,High,1002
+100348,Endocrinology,West,DrugB,Jun,61,35,9,4,Medicare,Low,1024
+100770,General Physician,West,DrugA,Aug,56,6,9,5,Commercial,Medium,1068
+100659,General Physician,South,DrugA,Mar,141,12,11,1,Medicaid,High,1054
+100763,Oncology,North,DrugC,Mar,186,38,1,4,Medicare,Medium,1039
+100954,Endocrinology,South,DrugB,Dec,115,77,10,0,Medicaid,Low,1082
+100931,Endocrinology,East,DrugC,Nov,5,19,11,7,Medicare,Low,1081
+100402,Pulmonology,West,DrugB,Nov,48,67,11,3,Medicare,Medium,1049
+100345,General Physician,South,DrugA,Oct,79,8,1,6,Medicare,Low,1094
+100962,Endocrinology,North,DrugC,Sep,102,8,4,2,Medicare,Medium,1032
+100510,Oncology,South,DrugC,Apr,13,47,5,0,Medicaid,Low,1017
+100146,Oncology,Central,DrugA,Apr,36,4,11,6,Medicaid,Medium,1056
+100147,Endocrinology,North,DrugC,Dec,19,51,1,5,Medicaid,Medium,1015
+100863,General Physician,East,DrugB,Jul,144,67,4,0,Medicaid,High,1079
+100710,Oncology,West,DrugB,Feb,189,45,6,4,Commercial,High,1037
+100819,Pulmonology,South,DrugB,Aug,140,8,9,1,Medicare,Medium,1040
+100488,Oncology,North,DrugB,Jun,76,16,9,3,Medicare,Low,1006
+100928,Cardiology,Central,DrugA,Mar,159,77,7,7,Medicare,Low,1077
+100935,Cardiology,North,DrugC,Sep,194,67,11,5,Commercial,Low,1052
+100639,General Physician,Central,DrugB,May,16,9,6,5,Medicaid,Medium,1062
+100550,Endocrinology,East,DrugA,Aug,69,60,7,2,Medicare,Medium,1088
+100337,General Physician,West,DrugC,Jul,111,78,11,0,Medicaid,Medium,1031
+100871,General Physician,East,DrugC,Aug,46,77,8,2,Medicaid,Medium,1037
+100640,General Physician,South,DrugA,Jul,194,71,4,1,Commercial,High,1021
+100778,General Physician,North,DrugA,Mar,119,15,4,6,Commercial,Medium,1015
+100987,Pulmonology,Central,DrugB,Feb,143,71,10,1,Medicaid,Low,1051
+100952,Pulmonology,Central,DrugC,Jul,107,41,9,6,Medicare,High,1028
+100472,Oncology,North,DrugC,Mar,175,22,3,2,Medicare,Low,1015
+100945,Cardiology,North,DrugA,Mar,99,24,8,3,Commercial,Medium,1075
+100150,General Physician,South,DrugC,Feb,21,44,4,1,Commercial,High,1016
+100414,Oncology,East,DrugB,Apr,164,1,1,2,Commercial,Medium,1063
+100989,Cardiology,Central,DrugC,Aug,89,10,9,0,Commercial,High,1090
+100297,Endocrinology,South,DrugA,Dec,172,72,7,2,Commercial,Low,1088
+100610,Pulmonology,East,DrugA,Jan,155,56,6,2,Commercial,Medium,1012
+100262,Cardiology,South,DrugB,Jan,60,50,7,4,Commercial,Medium,1071
+100763,Endocrinology,Central,DrugB,Dec,138,12,11,1,Medicare,High,1055
+100143,Cardiology,North,DrugC,May,90,60,2,7,Commercial,High,1004
+100345,Pulmonology,North,DrugC,Nov,182,26,3,3,Commercial,Medium,1011
+100623,Pulmonology,East,DrugA,May,106,78,4,3,Medicare,High,1040
+100571,Oncology,West,DrugB,Nov,169,41,5,4,Medicare,Medium,1002
+100880,General Physician,East,DrugB,Dec,196,36,0,6,Medicaid,High,1098
+100001,Cardiology,West,DrugB,Jan,58,23,3,5,Commercial,Low,1032
+100896,Cardiology,South,DrugC,Jun,181,43,10,6,Commercial,High,1085
+100303,Endocrinology,South,DrugB,Jan,119,6,11,3,Commercial,Low,1049
+100253,Pulmonology,Central,DrugA,May,143,69,9,2,Commercial,High,1055
+100651,Cardiology,West,DrugA,Sep,92,43,4,4,Medicaid,High,1008
+100452,Pulmonology,Central,DrugC,Dec,53,25,6,0,Medicare,Medium,1081
+100036,Cardiology,North,DrugC,May,153,18,4,1,Medicare,High,1049
+100159,Oncology,West,DrugB,Jun,119,62,0,1,Commercial,High,1028
+100008,General Physician,East,DrugC,Aug,198,13,10,7,Commercial,Low,1038
+100232,Cardiology,North,DrugA,Nov,67,43,6,1,Commercial,High,1090
+100098,Pulmonology,North,DrugB,Jan,108,78,7,2,Medicaid,Medium,1099
+100658,Oncology,East,DrugA,Feb,87,28,6,0,Medicaid,Low,1044
+100815,Cardiology,North,DrugB,Sep,107,18,10,4,Medicare,Medium,1016
+100207,Endocrinology,West,DrugC,Mar,160,59,3,4,Commercial,Medium,1055
+100130,General Physician,Central,DrugB,Jun,21,60,7,1,Commercial,Medium,1097
+100403,Cardiology,North,DrugB,May,10,63,4,0,Commercial,Medium,1045
+100151,Oncology,West,DrugA,Nov,151,57,9,0,Commercial,Low,1066
+100053,Endocrinology,South,DrugA,Feb,188,51,8,0,Medicaid,High,1068
+100119,Oncology,West,DrugB,Jul,32,56,11,3,Medicare,Medium,1013
+100672,Oncology,Central,DrugC,Apr,198,27,11,3,Medicare,Low,1066
+100919,Endocrinology,West,DrugC,Jan,42,32,9,1,Medicaid,Medium,1022
+100627,Oncology,East,DrugA,Apr,123,9,4,0,Commercial,High,1093
+100586,Endocrinology,Central,DrugC,Jun,41,68,0,5,Medicare,Low,1060
+100624,Cardiology,South,DrugA,Jul,119,46,11,0,Medicare,Low,1022
+100967,Endocrinology,East,DrugC,Jul,72,67,8,4,Medicaid,High,1026
+100419,Endocrinology,West,DrugB,Jul,181,26,11,4,Commercial,Low,1053
+100421,General Physician,Central,DrugA,Mar,47,8,4,1,Medicare,High,1009
+100103,Endocrinology,South,DrugA,Jun,168,6,5,5,Commercial,Low,1088
+100851,Endocrinology,East,DrugB,Aug,62,24,3,0,Medicare,Low,1076
+100253,Cardiology,South,DrugA,Apr,17,48,5,6,Medicaid,High,1015
+100226,General Physician,West,DrugC,Aug,56,45,11,5,Commercial,High,1040
+100111,Pulmonology,South,DrugC,Feb,62,13,7,7,Medicaid,Low,1097
+100509,Cardiology,North,DrugA,Oct,36,69,2,1,Medicare,Low,1054
+100472,Cardiology,East,DrugC,Sep,109,25,4,4,Medicaid,High,1060
+100098,Pulmonology,South,DrugA,Sep,192,20,1,6,Medicaid,High,1085
+100152,Endocrinology,West,DrugB,Aug,87,66,1,4,Medicaid,Low,1080
+100860,Oncology,West,DrugA,Oct,190,74,6,3,Medicare,Low,1086
+100913,General Physician,South,DrugB,Oct,103,45,9,1,Commercial,Low,1099
+100895,Oncology,West,DrugC,Jan,108,47,9,1,Medicaid,High,1048
+100877,Pulmonology,Central,DrugB,Feb,188,63,10,0,Commercial,Low,1072
+100337,Cardiology,Central,DrugC,Jun,32,76,9,0,Medicare,Medium,1051
+100705,Cardiology,Central,DrugA,Oct,133,77,5,3,Commercial,High,1001
+100821,General Physician,North,DrugC,May,174,55,3,6,Medicaid,Low,1095
+100162,Cardiology,South,DrugA,Dec,52,75,4,7,Medicaid,High,1049
+100719,Cardiology,North,DrugA,Sep,44,19,0,2,Medicaid,Medium,1085
+100956,General Physician,West,DrugB,May,101,35,6,5,Medicaid,High,1042
+100680,General Physician,North,DrugB,Feb,195,53,7,2,Medicaid,Low,1076
+100995,Pulmonology,West,DrugB,Oct,118,26,8,2,Medicaid,Medium,1007
+100160,Cardiology,West,DrugB,Apr,136,14,7,1,Medicare,Medium,1058
+100579,Cardiology,East,DrugC,Sep,170,45,4,5,Medicare,Low,1064
+100800,Pulmonology,Central,DrugC,Jan,159,44,2,1,Medicare,Low,1080
+100397,Endocrinology,West,DrugC,Nov,141,65,9,7,Commercial,Low,1011
+100276,Endocrinology,East,DrugA,Jan,115,51,10,5,Commercial,High,1003
+100815,Endocrinology,Central,DrugC,Dec,148,43,8,4,Medicare,High,1076
+100915,Pulmonology,West,DrugC,Jul,188,23,5,1,Commercial,High,1094
+100503,Cardiology,West,DrugC,Nov,80,56,4,1,Commercial,Low,1040
+100895,Pulmonology,North,DrugB,Mar,35,19,2,1,Medicaid,Low,1006
+100391,Pulmonology,North,DrugC,Oct,123,76,5,6,Medicaid,High,1086
+100134,Endocrinology,Central,DrugA,Feb,146,55,2,3,Commercial,Medium,1087
+100194,Oncology,West,DrugB,Sep,29,60,9,1,Commercial,High,1068
+100400,Cardiology,South,DrugA,Mar,38,59,11,7,Medicare,Medium,1068
+100639,Endocrinology,North,DrugC,Feb,71,33,5,0,Commercial,Low,1080
+100032,Oncology,Central,DrugB,Dec,156,19,3,0,Medicaid,Low,1029
+100687,Oncology,West,DrugA,Aug,122,28,1,5,Commercial,High,1072
+100459,General Physician,West,DrugC,Oct,77,52,7,4,Medicare,High,1005
+100954,Cardiology,South,DrugA,Jun,30,49,3,3,Medicaid,Low,1088
+100882,Oncology,Central,DrugA,Jun,152,37,8,6,Medicaid,High,1018
+100469,Endocrinology,West,DrugA,Oct,196,26,6,5,Medicaid,Low,1079
+100374,General Physician,North,DrugC,Nov,108,40,11,0,Medicaid,Low,1084
+100021,Cardiology,South,DrugC,Jul,14,38,1,3,Commercial,Medium,1065
+100749,Pulmonology,Central,DrugA,Jul,71,77,3,3,Medicare,High,1009
+100669,Endocrinology,South,DrugB,Nov,156,54,4,4,Commercial,Low,1015
+100037,Oncology,North,DrugB,Jun,9,22,2,7,Commercial,High,1036
+100229,Oncology,Central,DrugC,Apr,199,16,8,3,Medicaid,Medium,1078
+100364,Endocrinology,South,DrugC,Nov,190,28,4,1,Medicare,Medium,1076
+100562,Oncology,East,DrugC,Sep,31,35,1,3,Medicaid,High,1076
+100437,General Physician,North,DrugC,Jun,117,60,10,4,Commercial,High,1031
+100775,Cardiology,North,DrugC,Apr,19,45,2,5,Commercial,Low,1046
+100282,General Physician,North,DrugB,Dec,167,46,8,4,Medicaid,Medium,1071
+100026,Oncology,East,DrugC,Mar,109,72,6,6,Commercial,Medium,1042
+100225,Pulmonology,East,DrugA,Apr,185,55,1,4,Commercial,Medium,1081
+100276,Cardiology,West,DrugA,Mar,48,26,8,0,Medicaid,High,1035
+100797,Cardiology,South,DrugB,Feb,30,25,3,1,Commercial,Low,1025
+100608,Endocrinology,West,DrugA,May,179,65,8,7,Medicare,High,1009
+100283,Endocrinology,South,DrugB,Feb,166,6,1,0,Medicaid,High,1030
+100878,Pulmonology,East,DrugB,Jun,99,23,11,5,Medicare,High,1096
+100959,Cardiology,East,DrugA,Mar,182,64,9,2,Commercial,Low,1028
+100480,Pulmonology,West,DrugC,Jun,88,43,11,5,Commercial,High,1004
+100452,Endocrinology,Central,DrugA,Nov,144,23,3,1,Medicaid,Medium,1076
+100828,Endocrinology,West,DrugA,Oct,136,30,4,3,Commercial,Medium,1000
+100815,Cardiology,South,DrugB,Sep,91,77,1,4,Medicaid,Medium,1086
+100658,General Physician,West,DrugA,Jan,180,18,9,2,Medicaid,Low,1002
+100515,Oncology,North,DrugB,Jun,187,79,0,1,Medicaid,High,1066
+100546,Endocrinology,South,DrugC,Sep,116,21,6,0,Medicaid,Low,1070
+100191,Endocrinology,South,DrugC,Nov,133,57,9,4,Medicaid,High,1099
+100048,General Physician,Central,DrugC,Apr,93,23,0,5,Medicare,Medium,1034
+100511,General Physician,East,DrugA,Nov,70,45,10,0,Medicaid,High,1014
+100016,Pulmonology,South,DrugB,Dec,162,44,10,1,Medicare,High,1066
+100171,Pulmonology,East,DrugC,Feb,135,47,7,1,Commercial,High,1092
+100219,Oncology,West,DrugB,Apr,126,40,2,5,Medicaid,Low,1029
+100157,Oncology,North,DrugB,Jan,153,51,9,2,Commercial,High,1081
+100476,Cardiology,Central,DrugC,Mar,88,42,5,5,Medicaid,High,1074
+100045,Pulmonology,East,DrugC,Oct,181,7,6,3,Medicare,High,1042
+100372,Endocrinology,South,DrugB,Sep,120,50,9,0,Medicare,Low,1059
+100517,Pulmonology,East,DrugC,Oct,194,48,0,2,Medicare,Low,1039
+100098,Endocrinology,South,DrugB,May,120,6,5,4,Commercial,Low,1064
+100891,General Physician,East,DrugB,Nov,42,9,6,6,Medicaid,High,1028
+100744,Pulmonology,South,DrugC,Jun,147,57,5,3,Commercial,Medium,1073
+100036,General Physician,West,DrugA,Mar,114,31,3,2,Medicare,Medium,1091
+100279,Oncology,South,DrugC,May,184,21,0,6,Commercial,Medium,1094
+100348,Oncology,South,DrugA,Nov,50,40,10,6,Medicare,High,1018
+100496,Cardiology,North,DrugB,Aug,29,45,8,0,Medicare,Medium,1002
+100301,Pulmonology,South,DrugB,Jun,25,77,3,1,Medicare,Medium,1035
+100180,General Physician,North,DrugA,Apr,125,49,6,4,Medicaid,Medium,1042
+100606,Endocrinology,Central,DrugB,Feb,126,20,6,5,Medicaid,High,1014
+100098,Oncology,North,DrugA,Sep,137,17,1,0,Medicare,Medium,1096
+100699,Oncology,West,DrugA,Dec,74,28,0,3,Commercial,Medium,1040
+100992,Endocrinology,North,DrugB,Jan,117,41,7,7,Commercial,High,1089
+100115,General Physician,Central,DrugA,Jan,111,66,7,6,Medicaid,Low,1079
+100190,General Physician,West,DrugC,Apr,116,25,6,3,Medicare,Medium,1035
+100252,Pulmonology,East,DrugC,Jul,112,58,7,6,Commercial,Low,1096
+100980,Pulmonology,East,DrugB,Jan,51,41,2,1,Medicare,Medium,1083
+100927,Cardiology,North,DrugB,Sep,95,6,10,7,Commercial,High,1076
+100982,Oncology,North,DrugA,Apr,22,75,1,1,Medicaid,Low,1032
+100160,Pulmonology,Central,DrugA,Mar,153,38,6,4,Medicare,Low,1004
+100255,General Physician,Central,DrugA,Jan,108,6,7,5,Medicare,Low,1077
+100322,Endocrinology,South,DrugA,Oct,155,45,0,4,Commercial,Low,1090
+100127,General Physician,Central,DrugC,Apr,196,75,11,1,Commercial,Medium,1086
+100017,Oncology,South,DrugC,Sep,199,14,9,1,Commercial,Medium,1013
+100792,General Physician,West,DrugB,Oct,44,66,8,3,Medicare,Low,1067
+100734,Cardiology,North,DrugA,Jun,142,40,10,1,Medicaid,Medium,1082
+100565,Oncology,West,DrugA,Jun,93,3,3,7,Medicaid,Low,1046
+100569,Endocrinology,Central,DrugB,Jan,184,24,11,7,Commercial,Low,1053
+100322,Cardiology,West,DrugA,Oct,65,19,3,2,Medicaid,High,1003
+100871,Oncology,West,DrugA,Feb,196,18,2,6,Commercial,Low,1093
+100685,Endocrinology,West,DrugA,Nov,9,64,5,0,Medicaid,Medium,1082
+100791,Cardiology,Central,DrugA,Jun,126,35,0,1,Medicare,Low,1094
+100625,Cardiology,West,DrugA,Feb,185,62,5,4,Commercial,High,1094
+100287,Oncology,South,DrugB,Mar,59,1,1,5,Medicaid,Medium,1008
+100942,Pulmonology,Central,DrugA,Apr,41,25,8,6,Medicare,High,1052
+100853,Cardiology,West,DrugB,Nov,60,45,1,6,Medicaid,High,1076
+100662,Cardiology,Central,DrugA,May,191,49,6,5,Medicare,Low,1077
+100961,Endocrinology,East,DrugC,Sep,106,16,11,5,Medicare,High,1059
+100638,General Physician,South,DrugC,Dec,97,19,0,6,Medicaid,High,1045
+100154,Oncology,West,DrugC,Apr,77,23,11,2,Medicaid,Medium,1053
+100489,Oncology,East,DrugC,Nov,63,25,6,4,Medicare,High,1073
+100385,Pulmonology,East,DrugB,Sep,6,16,4,2,Medicare,Low,1094
+100985,Pulmonology,Central,DrugB,Nov,197,54,7,1,Medicare,Low,1036
+100784,Oncology,East,DrugA,Oct,108,73,3,0,Commercial,Low,1022
+100103,Pulmonology,South,DrugC,Mar,192,1,11,5,Medicare,High,1026
+100928,Endocrinology,South,DrugB,Aug,55,42,9,7,Commercial,Medium,1069
+100392,Oncology,North,DrugA,Dec,34,19,6,4,Medicare,Low,1089
+100810,Pulmonology,South,DrugA,Jan,15,34,5,5,Commercial,High,1065
+100245,Oncology,East,DrugB,Nov,112,55,4,2,Medicare,Low,1060
+100175,General Physician,South,DrugC,Sep,80,18,3,3,Medicare,Low,1076
+100038,Cardiology,Central,DrugA,Sep,171,34,6,1,Medicare,Medium,1050
+100476,Oncology,North,DrugC,Oct,94,45,11,0,Medicaid,Low,1049
+100681,Cardiology,East,DrugC,Feb,127,6,4,1,Medicaid,Medium,1018
+100758,Pulmonology,North,DrugC,Apr,195,21,4,3,Medicare,High,1000
+100537,Cardiology,East,DrugA,Aug,196,70,0,0,Commercial,Low,1039
+100866,Oncology,Central,DrugC,Jul,193,48,1,3,Commercial,High,1031
+100817,General Physician,North,DrugA,Jan,129,39,4,1,Medicare,High,1021
+100920,Pulmonology,West,DrugC,May,186,31,2,2,Medicaid,High,1092
+100407,Oncology,East,DrugA,Jul,126,10,1,6,Commercial,Low,1065
+100524,Pulmonology,West,DrugC,Apr,98,30,3,1,Medicaid,Medium,1039
+100827,Endocrinology,North,DrugB,Jan,107,18,3,1,Commercial,Low,1037
+100505,Cardiology,West,DrugC,Sep,190,60,3,1,Medicare,High,1047
+100902,Endocrinology,West,DrugC,May,188,73,3,4,Medicaid,Medium,1054
+100824,Oncology,North,DrugA,Nov,166,15,2,3,Commercial,High,1074
+100035,General Physician,Central,DrugA,Feb,35,4,11,7,Medicare,Medium,1080
+100684,Pulmonology,West,DrugC,Aug,56,63,6,3,Medicare,Low,1054
+100019,Cardiology,West,DrugB,Nov,93,40,8,5,Medicare,Medium,1050
+100320,Pulmonology,Central,DrugB,Feb,80,9,11,3,Medicaid,Low,1059
+100775,Oncology,West,DrugA,Mar,133,9,4,5,Medicaid,High,1007
+100511,Pulmonology,West,DrugB,Oct,187,26,3,4,Medicare,Medium,1085
+100399,Cardiology,West,DrugC,Jan,26,4,10,2,Medicaid,High,1067
+100653,Oncology,South,DrugA,Nov,44,16,1,5,Commercial,Medium,1074
+100971,Pulmonology,Central,DrugC,Feb,105,15,1,1,Medicare,Low,1071
+100882,General Physician,West,DrugA,Jul,115,52,4,2,Medicare,Medium,1008
+100470,Oncology,Central,DrugA,Oct,133,69,6,6,Medicaid,Medium,1089
+100142,Oncology,East,DrugA,Feb,69,5,9,4,Medicare,Low,1001
+100091,General Physician,East,DrugA,Jun,195,20,9,3,Commercial,Low,1079
+100353,Endocrinology,West,DrugB,Mar,186,79,8,5,Medicaid,Low,1094
+100833,Cardiology,Central,DrugC,Apr,174,18,6,7,Medicaid,Medium,1069
+100799,Endocrinology,Central,DrugC,Nov,153,2,4,1,Medicare,High,1084
+100726,Pulmonology,Central,DrugC,Aug,83,13,9,0,Medicare,Medium,1089
+100958,General Physician,South,DrugA,Mar,26,4,9,6,Medicare,Medium,1058
+100853,Endocrinology,East,DrugB,Oct,170,42,9,0,Medicaid,High,1018
+100050,Oncology,Central,DrugC,Jun,103,74,5,2,Medicare,Low,1027
+100664,Pulmonology,Central,DrugB,Jan,12,61,10,3,Commercial,Medium,1071
+100697,Pulmonology,South,DrugA,Jul,194,8,11,7,Medicare,High,1013
+100574,Endocrinology,South,DrugC,Aug,179,67,2,0,Medicare,Low,1023
+100189,Endocrinology,Central,DrugB,Nov,21,63,4,2,Medicaid,Low,1043
+100124,General Physician,North,DrugA,Aug,21,9,7,4,Medicare,Medium,1055
+100149,Cardiology,Central,DrugB,Mar,94,11,0,2,Medicaid,Low,1089
+100313,Endocrinology,Central,DrugC,Oct,145,42,11,6,Medicare,Low,1094
+100569,Endocrinology,South,DrugC,Jan,149,13,0,7,Commercial,High,1050
+100341,Oncology,South,DrugA,Sep,170,36,6,7,Commercial,High,1031
+100304,Pulmonology,Central,DrugA,Jun,85,13,4,2,Medicaid,Low,1049
+100691,Cardiology,Central,DrugA,Nov,82,12,4,6,Medicaid,High,1040
+100681,Oncology,Central,DrugB,Sep,177,37,0,2,Medicare,Low,1065
+100837,General Physician,South,DrugB,Jul,10,74,8,7,Medicare,Medium,1024
+100782,General Physician,Central,DrugB,Jan,167,73,0,7,Commercial,High,1060
+100053,Endocrinology,Central,DrugA,Dec,114,52,4,1,Medicare,Low,1065
+100443,Endocrinology,West,DrugC,Dec,18,71,9,2,Commercial,Low,1041
+100612,General Physician,North,DrugC,Jan,76,2,8,5,Medicaid,High,1064
+100992,Endocrinology,East,DrugB,Jun,193,56,3,2,Medicare,High,1035
+100263,Cardiology,North,DrugB,May,147,60,7,7,Medicaid,Medium,1075
+100052,Endocrinology,West,DrugC,Sep,58,23,5,1,Medicare,Low,1008
+100571,Pulmonology,East,DrugC,Feb,31,40,10,1,Commercial,Medium,1035
+100619,Endocrinology,Central,DrugB,Aug,17,64,2,4,Medicaid,Medium,1091
+100004,Oncology,West,DrugB,Nov,163,23,3,6,Medicaid,Medium,1037
+100102,Cardiology,Central,DrugC,May,167,29,1,3,Medicare,High,1032
+100195,Oncology,South,DrugA,Feb,64,78,0,0,Medicaid,Medium,1041
+100773,Oncology,West,DrugB,Oct,10,51,7,0,Commercial,High,1060
+100876,Pulmonology,South,DrugC,Nov,62,69,0,2,Medicaid,High,1045
+100991,Cardiology,West,DrugC,Nov,53,31,10,4,Medicaid,Medium,1085
+100883,Cardiology,West,DrugC,Dec,155,50,0,2,Medicare,Medium,1088
+100349,Cardiology,South,DrugC,Jun,166,20,3,0,Medicaid,Low,1060
+100046,Cardiology,East,DrugA,Oct,30,55,9,6,Medicare,Medium,1017
+100866,Cardiology,North,DrugC,Aug,51,2,11,7,Medicare,Low,1069
+100822,Pulmonology,Central,DrugB,Apr,9,25,9,6,Medicaid,Medium,1081
+100935,Endocrinology,West,DrugA,Feb,24,13,5,6,Commercial,Medium,1079
+100819,Oncology,Central,DrugC,Dec,138,70,8,1,Medicare,Medium,1014
+100655,Cardiology,South,DrugA,Nov,63,67,0,7,Medicaid,Medium,1047
+100268,Endocrinology,Central,DrugB,May,196,58,6,3,Medicare,Low,1071
+100369,Endocrinology,South,DrugC,Dec,150,75,9,7,Commercial,Low,1012
+100635,Oncology,Central,DrugB,Feb,136,64,10,4,Commercial,Medium,1042
+100105,Pulmonology,North,DrugC,Feb,21,69,4,1,Medicare,Medium,1059
+100669,General Physician,North,DrugC,Jun,18,59,11,3,Commercial,Low,1056
+100658,General Physician,North,DrugC,Nov,17,60,7,4,Medicaid,High,1070
+100656,Endocrinology,North,DrugC,Oct,139,62,6,4,Medicaid,High,1016
+100119,Oncology,North,DrugC,Sep,132,16,3,0,Medicare,High,1049
+100830,General Physician,North,DrugA,Apr,48,68,3,1,Commercial,Low,1031
+100786,Endocrinology,South,DrugC,Jun,123,15,5,4,Medicaid,Low,1021
+100603,Pulmonology,West,DrugC,Jul,147,55,5,5,Medicaid,High,1054
+100057,General Physician,Central,DrugA,Nov,23,35,8,6,Medicaid,High,1056
+100950,Endocrinology,North,DrugA,Jun,67,55,11,4,Medicare,Medium,1012
+100345,Endocrinology,South,DrugA,Aug,167,14,4,3,Medicare,Low,1046
+100740,Cardiology,South,DrugA,Apr,85,49,7,0,Medicaid,Low,1086
+100473,Pulmonology,South,DrugA,Dec,167,7,4,2,Medicaid,High,1061
+100116,Cardiology,West,DrugA,Jan,151,30,1,6,Commercial,High,1053
+100829,Oncology,Central,DrugC,Jul,152,49,5,0,Commercial,Low,1028
+100790,Cardiology,West,DrugC,Mar,104,16,8,2,Commercial,Medium,1021
+100126,Cardiology,East,DrugB,Jun,167,51,2,1,Medicare,High,1064
+100392,General Physician,South,DrugC,Feb,164,72,0,1,Medicaid,Low,1028
+100907,Endocrinology,East,DrugC,Sep,126,42,0,4,Medicare,Low,1047
+100640,Pulmonology,North,DrugA,Jan,180,17,2,5,Medicaid,Medium,1004
+100057,Cardiology,North,DrugA,Jun,48,63,9,1,Commercial,Medium,1034
+100633,Pulmonology,West,DrugC,Jun,108,45,4,7,Commercial,High,1073
+100512,Cardiology,Central,DrugB,May,156,77,2,4,Commercial,High,1082
+100750,Oncology,East,DrugA,May,65,7,8,6,Commercial,High,1070
+100801,Cardiology,Central,DrugC,Jan,129,27,7,0,Medicaid,Low,1045
+100095,General Physician,West,DrugC,Oct,149,10,2,1,Commercial,High,1034
+100637,Endocrinology,North,DrugB,Dec,75,34,8,7,Medicaid,Low,1044
+100117,Oncology,Central,DrugB,May,111,36,5,0,Medicaid,High,1012
+100559,Cardiology,Central,DrugA,Feb,54,25,6,0,Medicare,Medium,1009
+100600,Pulmonology,North,DrugB,Jul,69,6,3,5,Commercial,Medium,1065
+100487,Oncology,East,DrugC,Mar,103,24,3,1,Commercial,Low,1069
+100236,Oncology,North,DrugC,Apr,36,18,11,0,Medicare,Medium,1071
+100884,Cardiology,Central,DrugB,Mar,168,6,1,5,Medicaid,Low,1099
+100896,Oncology,East,DrugB,Mar,145,29,4,5,Commercial,Low,1024
+100271,Pulmonology,East,DrugB,Apr,62,25,7,1,Medicaid,Medium,1043
+100188,Oncology,North,DrugB,May,132,55,6,5,Medicare,Low,1059
+100998,Pulmonology,Central,DrugA,Jan,146,46,6,1,Medicaid,Medium,1046
+100703,Cardiology,West,DrugB,Apr,169,24,5,7,Commercial,High,1039
+100446,Endocrinology,Central,DrugA,Dec,116,75,2,1,Medicaid,High,1006
+100580,Oncology,South,DrugC,Dec,72,26,4,2,Medicaid,Medium,1045
+100789,Endocrinology,West,DrugB,Nov,44,28,0,0,Commercial,Medium,1022
+100860,Pulmonology,East,DrugA,Aug,191,3,6,7,Commercial,Medium,1082
+100246,Oncology,West,DrugB,Oct,148,75,8,3,Medicaid,Medium,1045
+100962,General Physician,East,DrugC,Jul,194,38,0,1,Medicaid,High,1085
+100075,Endocrinology,East,DrugC,Sep,136,61,1,0,Medicare,Low,1012
+100153,Oncology,West,DrugC,May,177,78,2,6,Commercial,Low,1020
+100655,Endocrinology,East,DrugB,Oct,94,51,2,5,Medicaid,High,1000
+100434,Oncology,East,DrugB,Apr,32,48,7,4,Commercial,Low,1018
+100996,Cardiology,South,DrugA,Aug,100,21,6,1,Medicare,High,1059
+100085,Endocrinology,Central,DrugC,Sep,198,54,5,5,Medicaid,Low,1032
+100696,General Physician,Central,DrugB,Jul,35,56,9,5,Medicaid,Medium,1003
+100284,General Physician,South,DrugC,Jul,7,59,9,5,Medicaid,Medium,1002
+100973,Pulmonology,West,DrugC,May,140,72,10,5,Commercial,Medium,1090
+100219,Oncology,North,DrugA,Apr,28,51,3,5,Medicare,High,1051
+100068,Endocrinology,North,DrugA,Oct,19,20,8,1,Commercial,High,1098
+100046,Pulmonology,North,DrugA,Jan,175,59,0,6,Medicaid,Low,1027
+100093,Endocrinology,South,DrugA,Oct,163,71,10,3,Medicare,Low,1069
+100749,Oncology,South,DrugC,Oct,49,9,1,2,Medicaid,Low,1069
+100957,General Physician,East,DrugA,Jul,198,1,3,5,Medicaid,High,1054
+100452,Cardiology,North,DrugA,Jan,12,29,2,5,Commercial,Low,1056
+100203,General Physician,West,DrugA,Jan,75,63,0,2,Medicaid,Medium,1086
+100911,Pulmonology,West,DrugA,May,112,72,4,6,Medicare,Low,1096
+100217,Cardiology,North,DrugC,Sep,119,56,6,7,Medicaid,Medium,1015
+100473,Pulmonology,North,DrugA,Jun,107,68,1,6,Medicaid,High,1023
+100431,Oncology,North,DrugC,Mar,129,35,4,7,Commercial,Medium,1068
+100340,Cardiology,South,DrugB,Mar,61,3,5,1,Medicare,Medium,1040
+100550,Pulmonology,South,DrugC,Jul,34,7,10,0,Commercial,Medium,1076
+100611,Oncology,South,DrugC,Jun,150,27,6,4,Medicaid,High,1046
+100288,General Physician,Central,DrugA,Sep,118,1,0,4,Commercial,High,1075
+100253,Oncology,West,DrugB,Jun,121,71,6,0,Commercial,High,1068
+100733,Endocrinology,West,DrugB,May,171,44,3,1,Commercial,High,1030
+100356,Oncology,East,DrugB,Oct,64,41,7,4,Commercial,Low,1091
+100022,Oncology,South,DrugB,Jul,102,75,3,6,Medicaid,High,1091
+100761,Endocrinology,Central,DrugC,Jan,175,42,5,2,Medicaid,Medium,1029
+100521,Pulmonology,Central,DrugB,Dec,130,33,8,0,Medicare,High,1017
+100757,Pulmonology,West,DrugC,Jul,177,50,4,6,Commercial,Low,1043
+100836,Oncology,South,DrugC,Mar,155,63,11,3,Commercial,Low,1026
+100099,Endocrinology,East,DrugC,Sep,98,37,3,1,Medicare,Low,1098
+100801,Endocrinology,South,DrugB,Jun,138,59,7,0,Commercial,Medium,1025
+100179,General Physician,North,DrugA,Sep,188,48,8,4,Medicare,High,1059
+100222,Pulmonology,South,DrugA,May,126,5,3,1,Medicaid,High,1017
+100905,Cardiology,North,DrugB,Jul,112,48,2,2,Medicare,High,1096
+100761,Pulmonology,North,DrugA,Apr,8,3,7,1,Commercial,Medium,1088
+100658,Pulmonology,East,DrugA,Jul,97,47,4,1,Medicare,Medium,1055
+100441,General Physician,West,DrugC,Jan,155,62,1,2,Medicaid,Low,1030
+100607,Cardiology,South,DrugC,Jul,10,14,9,5,Commercial,Low,1058
+100768,General Physician,North,DrugB,Aug,36,63,8,2,Medicaid,High,1001
+100324,Cardiology,South,DrugB,May,110,61,2,6,Medicaid,Medium,1096
+100515,Oncology,West,DrugA,Feb,150,31,11,1,Medicare,Medium,1038
+100015,Cardiology,West,DrugC,May,19,17,1,7,Medicaid,High,1060
+100791,General Physician,Central,DrugB,Jun,172,24,0,2,Commercial,High,1062
+100335,Pulmonology,West,DrugB,Dec,126,23,7,5,Medicaid,Low,1095
+100758,Cardiology,East,DrugB,Feb,100,50,10,6,Medicaid,Low,1017
+100257,Cardiology,North,DrugB,Jun,10,78,2,7,Medicare,Low,1016
+100496,Endocrinology,Central,DrugB,Jun,116,79,6,7,Medicaid,High,1097
+100987,Pulmonology,East,DrugB,Jan,124,79,0,0,Medicare,High,1038
+100895,Oncology,South,DrugA,Jan,127,70,0,2,Medicare,Low,1070
+100159,General Physician,North,DrugC,Nov,195,27,11,2,Commercial,Low,1053
+100474,Oncology,West,DrugC,Oct,71,15,8,1,Commercial,Medium,1098
+100851,Pulmonology,North,DrugB,Mar,110,50,11,6,Commercial,Medium,1093
+100663,Cardiology,South,DrugC,Oct,143,36,7,0,Commercial,Low,1075
+100907,Cardiology,Central,DrugC,Oct,47,8,11,3,Medicare,Low,1034
+100689,Pulmonology,Central,DrugC,Dec,149,79,2,3,Medicaid,Medium,1010
+100674,Cardiology,Central,DrugB,Mar,100,3,5,4,Commercial,Low,1060
+100379,Cardiology,West,DrugB,Apr,136,62,10,2,Commercial,Medium,1043
+100544,Cardiology,East,DrugC,Feb,195,47,2,2,Commercial,Medium,1067
+100928,General Physician,East,DrugC,Sep,85,77,11,0,Medicaid,Medium,1024
+100956,General Physician,North,DrugB,Oct,45,61,3,5,Commercial,High,1047
+100690,Endocrinology,West,DrugA,Dec,137,32,0,3,Medicaid,High,1031
+100426,Oncology,Central,DrugC,Nov,164,13,4,4,Medicare,Low,1083
+100612,Pulmonology,Central,DrugA,Jul,39,1,0,0,Medicare,Medium,1094
+100267,Pulmonology,South,DrugC,Jul,26,34,0,2,Medicare,High,1003
+100834,Pulmonology,South,DrugA,Jun,197,62,9,3,Medicaid,Low,1037
+100576,Endocrinology,Central,DrugA,Mar,154,79,10,6,Commercial,Low,1062
+100416,General Physician,Central,DrugA,Jun,116,78,10,4,Commercial,Low,1046
+100167,Endocrinology,West,DrugB,Dec,15,71,6,1,Commercial,Low,1000
+100841,Pulmonology,East,DrugA,Aug,7,31,11,3,Commercial,Low,1002
+100042,Oncology,South,DrugA,Aug,141,64,5,4,Commercial,Medium,1085
+100555,Cardiology,East,DrugA,Nov,64,25,1,0,Medicaid,Low,1061
+100284,General Physician,West,DrugC,Sep,80,38,10,1,Medicare,Medium,1063
+100396,General Physician,Central,DrugA,Jan,91,14,11,4,Commercial,High,1016
+100011,Endocrinology,East,DrugC,Jan,18,8,1,4,Medicare,Low,1077
+100606,General Physician,Central,DrugA,Mar,22,54,10,7,Medicaid,High,1061
+100301,Pulmonology,Central,DrugA,Mar,117,2,6,7,Medicaid,Medium,1034
+100897,Pulmonology,North,DrugB,Oct,77,78,0,7,Commercial,Medium,1012
+100252,Endocrinology,East,DrugC,Aug,27,56,1,2,Medicaid,High,1034
+100498,Pulmonology,East,DrugA,Oct,87,61,11,5,Medicare,Low,1042
+100753,Oncology,Central,DrugC,Jan,129,22,7,3,Commercial,Low,1001
+100034,Endocrinology,West,DrugC,Feb,179,35,5,2,Commercial,High,1055
+100726,Oncology,North,DrugB,Feb,73,16,1,6,Medicare,High,1076
+100848,Cardiology,Central,DrugB,Mar,51,50,6,1,Commercial,High,1050
+100089,Oncology,South,DrugB,Jun,120,43,3,5,Commercial,Low,1053
+100775,Cardiology,South,DrugB,Jan,34,17,1,4,Medicare,Low,1015
+100604,Cardiology,North,DrugB,Feb,29,58,11,2,Commercial,Low,1017
+100921,Oncology,West,DrugB,Jan,160,2,5,7,Commercial,High,1006
+100969,Endocrinology,Central,DrugB,May,116,4,10,5,Medicare,Low,1044
+100601,Pulmonology,East,DrugB,Jul,29,39,8,6,Medicaid,Medium,1035
+100417,Pulmonology,North,DrugA,Aug,78,6,10,3,Medicare,High,1040
+100114,Cardiology,West,DrugC,Oct,62,69,8,6,Commercial,Low,1093
+100616,Cardiology,East,DrugB,Jan,98,69,7,1,Medicare,High,1041
+100902,Endocrinology,South,DrugB,Jul,123,20,2,0,Commercial,Medium,1006
+100195,General Physician,South,DrugC,May,131,64,2,2,Commercial,Medium,1014
+100825,Oncology,East,DrugA,Oct,173,16,1,7,Medicare,High,1059
+100500,Cardiology,North,DrugC,Jan,29,51,4,1,Commercial,High,1039
+100625,Pulmonology,South,DrugC,Mar,82,37,11,0,Medicaid,Medium,1082
+100492,Endocrinology,Central,DrugB,Jul,103,73,3,7,Commercial,High,1036
+100074,Oncology,East,DrugC,Oct,120,69,6,7,Medicare,Medium,1065
+100412,Endocrinology,East,DrugC,Jan,52,42,3,7,Medicaid,Medium,1054
+100375,Oncology,South,DrugB,Jul,14,57,8,2,Medicaid,Low,1076
+100419,Oncology,North,DrugB,May,103,66,11,1,Commercial,High,1094
+100728,Cardiology,Central,DrugB,Jan,15,9,11,7,Medicare,High,1079
+100276,Endocrinology,North,DrugB,Jan,89,64,1,6,Commercial,Low,1055
+100760,Endocrinology,West,DrugC,Jan,153,22,10,1,Commercial,Medium,1043
+100675,Pulmonology,West,DrugC,Nov,177,34,5,5,Medicare,High,1056
+100393,Pulmonology,South,DrugA,Sep,139,55,6,6,Medicare,Low,1005
+100868,Cardiology,South,DrugA,Nov,196,29,3,2,Commercial,Low,1091
+100456,Cardiology,South,DrugC,Mar,130,38,5,7,Medicaid,High,1031
+100919,General Physician,West,DrugA,May,68,18,6,1,Commercial,Low,1073
+100191,Pulmonology,North,DrugC,Nov,6,71,3,4,Medicaid,Medium,1017
+100738,Oncology,North,DrugA,Oct,80,65,7,2,Commercial,Low,1067
+100688,Endocrinology,South,DrugB,Dec,125,1,8,1,Medicare,Medium,1072
+100098,Cardiology,Central,DrugA,Sep,46,4,0,5,Medicaid,Medium,1006
+100547,Endocrinology,North,DrugB,Jun,58,4,6,7,Medicare,High,1007
+100977,Endocrinology,West,DrugB,Dec,79,27,8,0,Medicare,Low,1063
+100998,General Physician,East,DrugB,Sep,20,43,11,7,Medicare,Medium,1006
+100095,Pulmonology,East,DrugB,Aug,22,59,9,0,Medicare,Medium,1040
+100663,Cardiology,East,DrugA,Aug,191,32,4,4,Medicare,Low,1039
+100662,Endocrinology,Central,DrugC,Jan,94,33,11,2,Commercial,Medium,1002
+100189,Cardiology,South,DrugB,Sep,148,28,1,5,Medicaid,Low,1016
+100735,Oncology,West,DrugA,Jun,10,55,9,1,Commercial,High,1065
+100036,General Physician,Central,DrugB,Sep,189,60,5,1,Commercial,Medium,1078
+100779,Oncology,West,DrugA,Mar,112,70,11,0,Commercial,Medium,1092
+100368,Cardiology,West,DrugA,Dec,179,62,11,5,Medicare,Low,1051
+100694,Cardiology,South,DrugA,Mar,52,34,6,6,Commercial,Low,1021
+100524,Pulmonology,East,DrugC,Jun,46,56,1,4,Medicaid,Low,1003
+100278,Endocrinology,South,DrugA,Sep,80,13,1,0,Commercial,Low,1005
+100216,Endocrinology,Central,DrugA,Jul,192,56,9,0,Medicare,Medium,1037
+100866,Oncology,Central,DrugC,Mar,81,18,11,4,Medicaid,High,1025
+100872,General Physician,Central,DrugC,Mar,136,54,9,2,Medicaid,High,1010
+100797,Endocrinology,South,DrugA,Feb,134,77,0,1,Medicaid,High,1089
+100272,Pulmonology,West,DrugC,Sep,63,43,3,2,Medicaid,High,1016
+100880,Oncology,West,DrugB,Mar,159,39,6,5,Commercial,Low,1087
+100061,Oncology,North,DrugB,Nov,31,61,8,6,Medicare,Medium,1091
+100595,Pulmonology,Central,DrugC,May,83,42,2,7,Medicaid,Medium,1098
+100879,General Physician,West,DrugC,Sep,76,79,11,3,Medicaid,Medium,1030
+100728,Pulmonology,North,DrugA,Aug,11,18,10,3,Medicare,Low,1076
+100341,General Physician,West,DrugC,Feb,195,23,6,3,Commercial,Medium,1034
+100396,Pulmonology,Central,DrugA,Mar,115,54,6,4,Medicaid,Low,1015
+100698,Pulmonology,East,DrugB,Feb,123,30,6,0,Commercial,Medium,1078
+100018,Cardiology,Central,DrugC,Aug,178,58,1,6,Commercial,High,1017
+100176,Oncology,South,DrugA,Jun,67,68,5,2,Commercial,Low,1061
+100611,Pulmonology,West,DrugA,Jun,128,67,1,7,Commercial,Medium,1026
+100395,Pulmonology,West,DrugB,Dec,16,71,5,1,Medicaid,High,1034
+100444,Endocrinology,South,DrugC,Sep,145,18,9,3,Medicaid,High,1044
+100232,Oncology,South,DrugB,Aug,47,7,2,2,Commercial,High,1034
+100914,Endocrinology,East,DrugA,Apr,21,40,1,3,Commercial,Low,1027
+100075,Oncology,West,DrugA,Dec,67,70,11,6,Medicare,Low,1008
+100264,Endocrinology,West,DrugC,Apr,124,65,5,3,Medicare,Medium,1075
+100454,Pulmonology,East,DrugA,Sep,40,68,1,1,Medicare,High,1014
+100795,Pulmonology,North,DrugC,Jan,12,49,4,7,Medicaid,Medium,1020
+100717,Cardiology,East,DrugB,Feb,73,52,1,5,Medicare,Medium,1051
+100734,Endocrinology,Central,DrugC,Feb,94,29,2,5,Medicaid,High,1034
+100383,General Physician,West,DrugC,Jun,40,21,2,6,Medicaid,Medium,1096
+100563,Cardiology,South,DrugA,Apr,32,78,5,5,Medicaid,Low,1050
+100850,Endocrinology,Central,DrugA,Nov,122,9,5,4,Medicaid,Medium,1082
+100505,Endocrinology,West,DrugC,Oct,97,47,9,0,Medicare,High,1054
+100366,Cardiology,East,DrugA,Mar,179,76,2,4,Commercial,Low,1086
+100143,Pulmonology,Central,DrugA,Mar,80,42,2,2,Commercial,Low,1076
+100884,Endocrinology,West,DrugA,Mar,105,51,11,4,Commercial,Medium,1043
+100068,Pulmonology,North,DrugC,Jun,162,56,0,2,Medicare,Medium,1064
+100098,Cardiology,North,DrugA,Aug,155,51,6,2,Commercial,Low,1092
+100395,Pulmonology,South,DrugC,Nov,148,70,7,0,Medicare,Medium,1087
+100024,Oncology,West,DrugA,Jul,18,20,1,1,Medicare,High,1079
+100947,General Physician,North,DrugB,Apr,75,27,3,7,Medicare,Medium,1024
+100890,Endocrinology,East,DrugA,Nov,184,38,9,6,Commercial,Medium,1086
+100468,General Physician,West,DrugA,Dec,128,72,6,0,Commercial,Low,1091
+100483,Pulmonology,East,DrugC,Apr,129,65,7,6,Commercial,Medium,1046
+100564,Endocrinology,East,DrugC,Nov,41,54,0,5,Medicaid,Medium,1079
+100150,Pulmonology,North,DrugA,Oct,33,24,3,5,Medicare,Medium,1055
+100143,Oncology,West,DrugB,Nov,199,47,5,4,Medicaid,High,1037
+100568,Cardiology,Central,DrugA,Nov,147,71,2,2,Medicare,Medium,1010
+100038,Endocrinology,North,DrugA,Nov,179,63,4,3,Commercial,High,1066
+100108,Oncology,North,DrugB,Feb,178,57,9,3,Medicare,High,1014
+100692,Oncology,West,DrugC,Jan,184,55,8,6,Medicare,High,1000
+100041,Endocrinology,West,DrugA,Sep,23,60,10,2,Medicaid,High,1006
+100185,Pulmonology,East,DrugC,Dec,110,62,2,6,Medicare,Low,1000
+100934,Oncology,West,DrugC,Dec,25,30,4,0,Commercial,High,1048
+100397,General Physician,East,DrugB,Feb,68,22,7,1,Medicare,Medium,1095
+100222,Oncology,North,DrugB,Aug,169,75,5,7,Medicare,High,1072
+100633,Pulmonology,South,DrugC,Sep,31,29,3,0,Medicare,Medium,1028
+100132,Pulmonology,Central,DrugA,Apr,59,41,7,2,Medicaid,High,1025
+100162,General Physician,North,DrugC,Aug,33,42,10,2,Medicare,Low,1086
+100214,Oncology,West,DrugA,Sep,152,65,2,1,Medicare,High,1044
+100732,Pulmonology,Central,DrugA,Oct,29,31,2,6,Medicaid,High,1092
+100234,Endocrinology,South,DrugB,Oct,74,30,3,4,Medicaid,Low,1096
+100842,Cardiology,South,DrugA,May,67,18,8,4,Medicaid,High,1070
+100657,Cardiology,East,DrugA,Jul,168,17,4,1,Medicaid,Medium,1011
+100750,Cardiology,Central,DrugC,Oct,134,38,7,4,Commercial,High,1094
+100587,Oncology,East,DrugB,Apr,154,14,5,3,Commercial,High,1031
+100008,General Physician,North,DrugA,Jan,20,79,2,4,Medicare,High,1019
+100073,Pulmonology,Central,DrugA,Mar,150,56,7,4,Commercial,Low,1050
+100953,Endocrinology,North,DrugB,May,186,22,11,4,Medicare,High,1080
+100491,Endocrinology,East,DrugC,Mar,104,67,8,3,Commercial,High,1035
+100912,Oncology,Central,DrugB,Dec,34,56,7,6,Medicaid,Medium,1066
+100252,Cardiology,East,DrugB,Nov,49,19,3,4,Medicaid,High,1000
+100229,Oncology,Central,DrugA,Jul,23,57,10,5,Commercial,High,1026
+100518,General Physician,East,DrugA,Dec,38,44,5,3,Commercial,High,1039
+100173,General Physician,South,DrugC,Sep,145,35,0,1,Medicare,High,1096
+100652,Pulmonology,East,DrugA,Dec,175,1,3,0,Medicare,Medium,1083
+100167,Pulmonology,South,DrugA,Jun,66,52,7,1,Medicare,Medium,1013
+100169,General Physician,East,DrugB,Oct,122,70,0,0,Medicaid,Low,1099
+100392,General Physician,Central,DrugA,Jan,104,37,2,7,Medicaid,High,1068
+100945,General Physician,Central,DrugC,Jul,26,65,0,1,Medicaid,Low,1086
+100794,Oncology,Central,DrugB,Mar,184,51,8,5,Medicaid,Low,1078
+100633,General Physician,West,DrugC,May,184,1,1,0,Medicare,High,1005
+100193,Endocrinology,North,DrugB,Oct,115,21,8,0,Medicaid,Medium,1032
+100516,Cardiology,Central,DrugA,Apr,168,53,3,2,Medicaid,Medium,1054
+100028,General Physician,South,DrugB,Oct,77,16,1,0,Medicaid,High,1018
+100164,Cardiology,Central,DrugB,May,151,61,3,0,Medicaid,High,1076
+100421,Oncology,West,DrugA,May,42,54,11,2,Commercial,Medium,1028
+100338,Cardiology,South,DrugA,Jun,74,40,10,4,Medicare,High,1060
+100647,Oncology,West,DrugC,Oct,120,26,10,4,Medicare,High,1069
+100495,Endocrinology,South,DrugC,Dec,83,65,9,2,Medicaid,High,1078
+100364,Oncology,East,DrugA,Oct,189,74,5,3,Commercial,Medium,1079
+100832,Oncology,North,DrugA,Nov,152,64,10,7,Medicare,Low,1023
+100341,Pulmonology,North,DrugA,Jun,13,43,6,0,Medicare,Low,1022
+100499,General Physician,West,DrugB,Aug,36,17,2,0,Medicaid,High,1009
+100656,General Physician,North,DrugB,Aug,136,59,2,2,Medicaid,Medium,1053
+100510,Endocrinology,West,DrugB,Nov,54,23,11,2,Medicare,High,1040
+100326,Endocrinology,West,DrugA,Sep,86,7,9,3,Medicare,Medium,1048
+100216,General Physician,West,DrugC,Aug,9,44,11,5,Commercial,High,1016
+100300,Pulmonology,North,DrugA,Nov,152,53,7,4,Medicare,Medium,1055
+100131,General Physician,West,DrugB,Feb,91,71,4,1,Medicare,Medium,1044
+100803,Pulmonology,North,DrugB,Dec,130,79,3,5,Medicaid,Low,1029
+100069,Endocrinology,West,DrugA,Oct,79,34,6,6,Medicare,High,1043
+100251,Cardiology,Central,DrugA,Dec,169,46,6,4,Medicaid,Low,1073
+100414,Endocrinology,West,DrugB,Nov,26,68,8,0,Medicare,Low,1054
+100786,Endocrinology,South,DrugB,Jan,190,78,8,6,Medicare,Medium,1018
+100444,Oncology,West,DrugB,Oct,72,78,4,5,Medicare,High,1028
+100875,Oncology,East,DrugA,Feb,48,16,11,2,Commercial,Medium,1001
+100181,Oncology,West,DrugB,Feb,38,71,7,3,Medicaid,Medium,1035
+100166,Oncology,South,DrugB,Dec,81,19,9,4,Commercial,Medium,1018
+100090,Pulmonology,South,DrugC,Mar,46,2,0,3,Medicare,High,1006
+100713,General Physician,North,DrugA,Oct,141,10,8,6,Commercial,High,1025
+100857,Cardiology,Central,DrugC,Jul,110,50,7,4,Medicaid,Medium,1078
+100530,Endocrinology,West,DrugC,Feb,99,12,5,7,Medicare,High,1037
+100038,Pulmonology,North,DrugB,Jan,139,70,2,7,Commercial,Medium,1002
+100125,Cardiology,Central,DrugA,Jun,72,22,2,5,Commercial,High,1079
+100450,Pulmonology,West,DrugB,Sep,151,32,7,0,Medicaid,High,1065
+100172,Pulmonology,East,DrugA,Mar,163,1,4,7,Commercial,Low,1094
+100652,Endocrinology,West,DrugC,Jun,132,54,9,7,Medicaid,Medium,1091
+100753,General Physician,South,DrugA,Mar,167,58,10,1,Medicare,Low,1070
+100219,Oncology,South,DrugB,Jan,189,70,6,3,Medicare,Low,1093
+100637,General Physician,East,DrugB,Dec,89,18,4,3,Commercial,Medium,1042
+100057,Endocrinology,North,DrugB,May,193,6,7,7,Medicare,Medium,1061
+100659,Endocrinology,Central,DrugA,Oct,163,45,9,1,Medicare,High,1070
+100475,Endocrinology,West,DrugC,Nov,87,23,9,3,Commercial,Medium,1099
+100455,Cardiology,South,DrugC,Apr,99,23,3,3,Medicare,Low,1092
+100828,General Physician,North,DrugA,Jul,185,26,1,4,Commercial,Low,1023
+100894,General Physician,East,DrugB,Jun,36,77,2,4,Medicaid,Medium,1038
+100360,Pulmonology,South,DrugC,Oct,70,7,7,1,Medicaid,Low,1067
+100934,Pulmonology,East,DrugB,Jul,191,79,10,6,Medicaid,High,1092
+100000,Pulmonology,West,DrugA,May,120,44,6,0,Commercial,Low,1043
+100386,Endocrinology,Central,DrugB,Apr,142,27,1,5,Commercial,High,1004
+100972,General Physician,South,DrugC,Jul,134,26,5,7,Medicare,Low,1054
+100347,Endocrinology,South,DrugC,Jul,198,79,8,7,Medicare,High,1092
+100189,Cardiology,West,DrugB,Jun,64,36,3,5,Medicare,High,1029
+100504,Pulmonology,North,DrugA,Aug,21,55,8,7,Medicare,Medium,1028
+100190,Endocrinology,Central,DrugB,Apr,100,64,1,7,Medicare,High,1025
+100507,Endocrinology,South,DrugA,Oct,148,57,1,6,Commercial,Medium,1082
+100368,Cardiology,Central,DrugB,May,20,69,8,3,Commercial,Low,1025
+100408,Oncology,South,DrugC,Apr,50,61,11,0,Medicaid,Low,1036
+100823,General Physician,Central,DrugA,Dec,171,2,6,7,Medicaid,Low,1090
+100928,Oncology,East,DrugA,Jan,163,55,6,1,Medicaid,High,1093
+100933,Pulmonology,South,DrugA,Dec,111,38,0,6,Medicaid,Low,1052
+100116,Endocrinology,Central,DrugC,Aug,92,78,10,7,Commercial,Low,1029
+100133,Cardiology,North,DrugB,Jan,133,29,5,1,Commercial,Medium,1002
+100057,Cardiology,East,DrugC,May,143,26,6,4,Commercial,Medium,1042
+100555,General Physician,East,DrugA,Jun,123,35,10,3,Medicare,Low,1006
+100684,Oncology,North,DrugB,Jun,89,79,5,2,Medicare,Low,1048
+100671,General Physician,Central,DrugC,May,8,67,5,7,Medicaid,High,1072
+100172,Endocrinology,West,DrugA,Mar,75,29,1,1,Medicare,High,1040
+100828,General Physician,North,DrugA,May,158,34,5,6,Commercial,Low,1076
+100814,Cardiology,Central,DrugC,Dec,115,41,3,3,Medicaid,Medium,1078
+100148,Cardiology,North,DrugC,Aug,54,41,8,0,Medicaid,Low,1053
+100079,Pulmonology,North,DrugC,Feb,144,23,11,6,Medicare,High,1068
+100885,Pulmonology,South,DrugA,Jun,99,71,0,4,Medicaid,Medium,1092
+100212,Endocrinology,Central,DrugC,Sep,96,3,7,5,Medicare,Medium,1098
+100202,Oncology,West,DrugA,Aug,69,58,4,7,Medicare,High,1090
+100763,General Physician,South,DrugC,Nov,51,32,0,0,Medicaid,Low,1026
+100228,Endocrinology,North,DrugA,Aug,185,31,3,1,Medicare,Low,1007
+100675,Pulmonology,North,DrugA,Aug,110,43,0,7,Medicare,Low,1031
+100226,General Physician,North,DrugB,Jul,134,7,5,1,Medicare,High,1083
+100658,Pulmonology,Central,DrugC,Aug,110,1,1,0,Medicare,Medium,1063
+100531,General Physician,Central,DrugC,Jun,28,61,4,1,Medicaid,High,1009
+100440,Oncology,South,DrugA,Feb,8,14,6,6,Commercial,Low,1012
+100401,Endocrinology,West,DrugA,Feb,112,52,1,3,Commercial,High,1062
+100046,General Physician,South,DrugA,Aug,23,6,5,1,Medicare,Medium,1092
+100232,Cardiology,East,DrugB,Nov,158,10,5,4,Medicare,High,1034
+100304,Cardiology,North,DrugB,Jan,44,71,4,3,Medicare,Low,1060
+100525,General Physician,North,DrugA,Jun,54,30,4,6,Commercial,Medium,1053
+100142,General Physician,North,DrugC,Jun,175,21,2,7,Medicare,High,1007
+100414,General Physician,South,DrugC,Nov,79,60,9,2,Medicaid,High,1028
+100512,Cardiology,South,DrugB,Apr,199,74,9,7,Medicaid,Medium,1094
+100372,Cardiology,North,DrugB,Dec,16,63,10,1,Medicaid,Medium,1040
+100565,General Physician,South,DrugA,Nov,199,42,11,1,Commercial,Low,1029
+100885,Pulmonology,Central,DrugC,Nov,31,51,1,4,Medicare,Medium,1085
+100258,Pulmonology,Central,DrugA,Oct,117,64,6,6,Medicare,Low,1020
+100655,Oncology,South,DrugB,Mar,186,76,0,4,Medicare,High,1075
+100470,Endocrinology,North,DrugC,Nov,198,56,5,5,Commercial,Low,1010
+100952,Pulmonology,South,DrugC,Mar,53,41,5,6,Commercial,High,1001
+100970,Cardiology,South,DrugB,Jan,148,32,2,0,Commercial,Medium,1049
+100011,Pulmonology,South,DrugA,Mar,134,15,1,0,Commercial,High,1040
+100329,Oncology,East,DrugA,Apr,64,62,11,0,Medicaid,Medium,1065
+100735,Oncology,Central,DrugC,Nov,186,27,1,4,Commercial,High,1097
+100783,Endocrinology,West,DrugB,Nov,34,28,8,0,Commercial,High,1002
+100967,Pulmonology,West,DrugC,May,88,64,10,6,Commercial,High,1079
+100357,Cardiology,East,DrugB,Mar,170,59,4,0,Medicare,High,1050
+100971,Cardiology,South,DrugA,Jun,32,58,6,2,Medicare,Low,1067
+100407,General Physician,East,DrugB,Nov,29,2,11,0,Medicare,High,1086
+100667,Cardiology,East,DrugA,Dec,100,36,4,1,Medicaid,Low,1083
+100372,Endocrinology,North,DrugB,May,129,71,6,5,Medicaid,Medium,1024
+100007,Endocrinology,Central,DrugC,Mar,14,13,3,4,Commercial,Medium,1029
+100121,Cardiology,West,DrugA,Jun,192,15,7,3,Medicare,Low,1081
+100347,Cardiology,South,DrugC,Jun,46,60,10,5,Medicaid,Medium,1010
+100675,General Physician,West,DrugC,Aug,44,22,9,2,Medicare,Medium,1092
+100089,Cardiology,West,DrugA,Feb,81,63,10,4,Medicaid,High,1016
+100647,General Physician,Central,DrugA,Jan,109,75,9,6,Medicaid,High,1025
+100697,General Physician,West,DrugC,Apr,122,74,6,7,Commercial,High,1022
+100315,Cardiology,West,DrugC,Jul,46,25,9,4,Commercial,Low,1055
+100177,Oncology,East,DrugC,Nov,51,48,4,1,Medicaid,Low,1051
+100539,Oncology,Central,DrugC,Oct,169,43,10,6,Commercial,Medium,1047
+100731,General Physician,North,DrugA,Mar,26,38,5,5,Medicaid,High,1019
+100868,Cardiology,South,DrugA,Mar,189,41,4,5,Medicaid,Low,1001
+100040,Oncology,West,DrugC,May,111,45,6,0,Medicare,Low,1087
+100739,Cardiology,South,DrugB,May,31,40,11,6,Commercial,High,1030
+100703,Cardiology,North,DrugB,Oct,45,17,1,7,Commercial,Low,1026
+100922,Cardiology,South,DrugA,Mar,84,57,4,1,Commercial,High,1001
+100501,Pulmonology,North,DrugC,Sep,166,2,9,0,Medicare,Medium,1077
+100958,Cardiology,East,DrugC,Apr,164,62,2,0,Medicare,Medium,1003
+100144,Pulmonology,West,DrugA,Mar,93,9,8,7,Medicare,Medium,1012
+100200,General Physician,North,DrugB,Nov,70,68,5,4,Commercial,High,1099
+100928,Oncology,South,DrugB,Feb,16,17,9,5,Commercial,Low,1034
+100723,Oncology,West,DrugB,Oct,172,50,2,0,Commercial,Medium,1071
+100460,Oncology,East,DrugA,Nov,77,40,6,2,Medicare,Medium,1065
+100731,Oncology,West,DrugB,Sep,80,58,3,2,Medicare,Medium,1005
+100751,Oncology,North,DrugA,Apr,94,75,2,5,Medicaid,Low,1030
+100924,Oncology,East,DrugA,Mar,14,21,7,2,Medicare,Low,1009
+100908,Oncology,South,DrugC,Jul,100,18,3,7,Medicaid,High,1020
+100557,General Physician,East,DrugB,Aug,180,55,10,4,Commercial,Medium,1073
+100546,Cardiology,East,DrugA,Nov,24,29,0,1,Medicare,Low,1022
+100252,Endocrinology,Central,DrugB,Feb,43,24,5,3,Commercial,High,1002
+100389,Pulmonology,East,DrugB,Jul,64,74,9,0,Commercial,Medium,1031
+100593,Endocrinology,East,DrugC,Dec,70,17,10,3,Commercial,Low,1019
+100882,Endocrinology,West,DrugB,May,69,18,10,1,Commercial,Low,1073
+100255,Cardiology,South,DrugC,Nov,183,42,0,1,Medicare,High,1028
+100708,Cardiology,West,DrugA,May,128,45,4,7,Commercial,Medium,1051
+100814,Cardiology,West,DrugB,Mar,168,17,6,4,Medicaid,Medium,1045
+100920,Oncology,North,DrugA,May,156,73,5,2,Medicare,Low,1033
+100449,General Physician,West,DrugB,Dec,159,14,1,2,Commercial,Medium,1083
+100009,Oncology,Central,DrugA,Feb,134,49,10,7,Medicare,High,1060
+100823,General Physician,Central,DrugB,Apr,163,29,3,1,Medicaid,Low,1071
+100797,General Physician,North,DrugB,Jun,61,4,10,4,Commercial,Low,1070
+100241,Endocrinology,South,DrugB,Jan,82,20,1,4,Medicaid,High,1069
+100250,Endocrinology,South,DrugB,Oct,198,47,10,5,Commercial,Low,1010
