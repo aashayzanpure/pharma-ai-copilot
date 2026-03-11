@@ -1,35 +1,53 @@
-import pandas as pd
+import os
+from openai import OpenAI
+from dotenv import load_dotenv
+
 from src.analytics_engine import (
-    top_hcps,
-    underperforming_regions,
-    call_gap_analysis,
+    drug_performance,
     specialty_performance,
-    drug_performance
+    call_gap_analysis,
+    underperforming_regions,
+    top_hcps
 )
 
-df = pd.read_csv("data/pharma_sales.csv")
+load_dotenv()
 
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def answer_question(question):
 
-    question = question.lower()
+    q = question.lower()
 
-    if "top hcp" in question or "top doctors" in question:
-        result = top_hcps(df)
+    if "drug" in q:
+        result = drug_performance()
 
-    elif "underperforming region" in question:
-        result = underperforming_regions(df)
+    elif "specialty" in q:
+        result = specialty_performance()
 
-    elif "call gap" in question or "rep activity" in question:
-        result = call_gap_analysis(df)
+    elif "call" in q or "rep" in q:
+        result = call_gap_analysis()
 
-    elif "specialty" in question:
-        result = specialty_performance(df)
+    elif "region" in q:
+        result = underperforming_regions()
 
-    elif "drug performance" in question:
-        result = drug_performance(df)
+    elif "hcp" in q or "doctor" in q:
+        result = top_hcps()
 
     else:
-        return "Sorry, I cannot answer that question yet."
+        return "I couldn't determine the correct pharma analytics query."
 
-    return result
+    explanation = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {
+                "role": "system",
+                "content": "You are a pharma commercial analytics assistant explaining insights to business users."
+            },
+            {
+                "role": "user",
+                "content": f"Explain this pharma analytics output in simple business terms:\n{result}"
+            }
+        ]
+    )
+
+    return explanation.choices[0].message.content

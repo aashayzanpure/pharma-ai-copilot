@@ -1,60 +1,55 @@
 import pandas as pd
+import os
 
-def top_hcps(df, top_n=10):
-    
-    result = (
-        df.groupby("hcp_id")["trx"]
-        .sum()
-        .sort_values(ascending=False)
-        .head(top_n)
-        .reset_index()
-    )
-    
-    return result
+DATA_PATH = os.path.join("data", "pharma_sales.csv")
+df = pd.read_csv(DATA_PATH)
 
-def underperforming_regions(df):
-    
-    region_trx = (
-        df.groupby("region")["trx"]
-        .mean()
-        .sort_values()
-        .reset_index()
-    )
-    
-    return region_trx
 
-def call_gap_analysis(df):
-    
-    calls = df.groupby("region")["rep_calls"].mean()
-    trx = df.groupby("region")["trx"].mean()
-    
-    result = pd.DataFrame({
-        "avg_calls": calls,
-        "avg_trx": trx
-    }).reset_index()
-    
-    result["trx_per_call"] = result["avg_trx"] / (result["avg_calls"] + 1)
-    
-    return result
-
-def specialty_performance(df):
-    
-    result = (
-        df.groupby("specialty")["trx"]
-        .mean()
-        .sort_values(ascending=False)
-        .reset_index()
-    )
-    
-    return result
-
-def drug_performance(df):
-    
+def drug_performance():
     result = (
         df.groupby("drug")["trx"]
         .sum()
         .sort_values(ascending=False)
-        .reset_index()
+    )
+    return result.to_string()
+
+
+def specialty_performance():
+    result = (
+        df.groupby("specialty")["trx"]
+        .sum()
+        .sort_values(ascending=False)
+    )
+    return result.to_string()
+
+
+def call_gap_analysis():
+    result = (
+        df.groupby("hcp_id")[["calls", "trx"]]
+        .sum()
     )
     
-    return result
+    result["trx_per_call"] = result["trx"] / result["calls"]
+    result = result.sort_values("trx_per_call", ascending=False).head(10)
+
+    return result.to_string()
+
+
+def underperforming_regions():
+    result = (
+        df.groupby("region")["trx"]
+        .sum()
+        .sort_values()
+        .head(5)
+    )
+    return result.to_string()
+
+
+def top_hcps():
+    result = (
+        df.groupby("hcp_id")["trx"]
+        .sum()
+        .sort_values(ascending=False)
+        .head(10)
+    )
+    return result.to_string()
