@@ -1,4 +1,5 @@
 import os
+import json
 from openai import OpenAI
 from dotenv import load_dotenv
 
@@ -48,12 +49,21 @@ tools = [
         }
     },
     {
-        "type": "function",
-        "function": {
-            "name": "underperforming_regions",
-            "description": "Identify regions with low prescription performance",
-            "parameters": {"type": "object", "properties": {}}
-        }
+    	"type": "function",
+    	"function": {
+        	"name": "underperforming_regions",
+        	"description": "Identify regions with low prescription performance for a given drug",
+        	"parameters": {
+            	"type": "object",
+            	"properties": {
+                	"drug": {
+                   	"type": "string",
+                    	"description": "Drug name (DrugA, DrugB, DrugC)"
+                	}
+            		},
+            	"required": ["drug"]
+        	}
+    	}
     },
     {
         "type": "function",
@@ -80,32 +90,51 @@ def answer_question(question):
             }
         ],
         tools=tools,
-        tool_choice="auto"
+        tool_choice="auto",
+        temperature=0
     )
 
     message = response.choices[0].message
 
+    print("\n--- LLM TOOL DECISION ---")
+    print(f"Question: {question}")
+
     if message.tool_calls:
 
         tool_name = message.tool_calls[0].function.name
-        tool_function = tool_map[tool_name]
+        # print(f"Selected Tool: {tool_name}")
 
-        result = tool_function()
+        tool_function = tool_map[tool_name]
+        
+        arguments = message.tool_calls[0].function.arguments
+        args = json.loads(arguments) if arguments else {}
+
+        print("Selected Tool:", tool_name)
+        print("Arguments received:", args)
+
+        result = tool_function(**args)
+        print("RAW ANALYTICS OUTPUT:\n", result)
 
         explanation = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
                 {
                     "role": "system",
-                    "content": "Explain the pharma analytics insight to a business user."
+                    "content": "Explain the pharma analytics insight to a pharma commercial leader. Keep it concise and to-the-point to save tokens. Don't repeat the same things."
                 },
                 {
                     "role": "user",
                     "content": f"User question: {question}\n\nAnalytics output:\n{result}"
                 }
-            ]
+            ],
+            temperature=0
         )
 
+        print("-------------------------\n")
+
         return explanation.choices[0].message.content
+
+    print("No tool selected")
+    print("-------------------------\n")
 
     return "I couldn't determine the correct analysis."

@@ -35,14 +35,19 @@ def call_gap_analysis():
     return result.to_string()
 
 
-def underperforming_regions():
-    result = (
-        df.groupby("region")["trx"]
-        .sum()
-        .sort_values()
-        .head(5)
-    )
-    return result.to_string()
+def underperforming_regions(drug):
+    filtered = df[df["drug"] == drug]
+
+    region_perf = filtered.groupby("region")["trx"].sum().sort_values()
+    print("\nREGION PERFORMANCE:")
+    print(region_perf)
+
+    # avg = region_perf.mean()
+    # underperforming = region_perf[region_perf < avg]
+
+    # return underperforming.sort_values()
+    
+    return region_perf.sort_values()
 
 
 def top_hcps():
