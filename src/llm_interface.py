@@ -120,7 +120,7 @@ def answer_question(question):
             messages=[
                 {
                     "role": "system",
-                    "content": "Explain the pharma analytics insight to a pharma commercial leader. Keep it concise and to-the-point to save tokens. Don't repeat the same things."
+                    "content": "Explain the pharma analytics insight AND recommend a specific action that a pharma commercial leader should take. Keep it concise and to-the-point to save tokens. Don't repeat the same things."
                 },
                 {
                     "role": "user",
