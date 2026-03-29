@@ -1,4 +1,4 @@
-# 🧠 GenAI Pharma Analytics Copilot (PoC)
+# 🧠 GenAI Pharma Analytics Insight Generator (PoC)
 
 A proof-of-concept GenAI-powered analytics assistant that allows users to ask natural language questions about pharma commercial data and receive data-driven, business-ready insights.
 
